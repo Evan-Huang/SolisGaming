@@ -1,0 +1,93 @@
+/* CSS Document */
+.crumb{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+
+.promotions {
+	color: #ffffff;
+
+}
+
+.promotions h2{
+	color: #ffce3d;
+	margin-bottom: 0;
+}
+
+.promotions .promotion .promotion_tagline{
+
+	padding-left: 40px;
+	padding: 40px;
+}
+
+.promotion{
+		height: 220px;
+}
+.promotion_box{
+	margin: 30px 0;
+}
+.promotion_banner{
+	margin-bottom: 10px;
+	padding: 5px;
+	background-position: center center;
+	background-size: cover;
+}
+.promotion_title{
+	font-weight: 800;
+
+	color: #ffffff;
+	min-height: 60px;
+	font-size: 18px;
+	padding: 5px;
+}
+
+.promotion_detail{
+	margin: 0;
+}
+
+.promotion_detail .promotion_title{
+	font-size: 24px;
+	border-bottom: rgba(245,125,34,1.00) solid 2px;
+	padding-bottom: 10px;
+}
+
+.promotion_content{
+	padding: 5px;
+}
+
+.promotion_content_row_col{
+	padding: 0px 5px;
+}
+
+.promotion_content_row_col p{
+	padding: 0px 5px;
+	color: #000000;
+	background: #b39e6a;
+}
+
+.promotion_button{
+	width: 100%;
+}
+.promotion_button{
+	font-weight: 900;
+	display:inline-block;
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+	color: rgba(245,125,34,1.00);
+	border-bottom: rgba(245,125,34,1.00) solid 2px;
+	padding-bottom: 10px;
+}
+
+@media screen and (max-width:767px) {
+	.promotion{
+			height: 100px;
+	}
+	.promotions .promotion .promotion_tagline{
+
+		padding-left: 15px;
+		padding-top:5px;
+	}
+}

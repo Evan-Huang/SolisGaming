@@ -1,0 +1,427 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+body {
+	background-color: #000000;
+	font-family: 'PT Sans', sans-serif;
+}
+
+h2,h4{
+	color: #EB7220;
+	font-weight: 800;
+}
+
+h3, h1{
+	color:#ffce3d;
+
+}
+
+
+.top_lang_bar {
+	background-color: #1a1919;
+	padding: 5px;
+}
+a {
+	color: #ffffff;
+}
+a:hover {
+	color: #999999;
+	text-decoration: none;
+}
+.navbar-collapse a {
+	text-transform: uppercase;
+}
+.white_bg{
+	background-color: #ffffff;
+	background-image: url(../images/bg.png);
+	background-size: 60%;
+	background-position: right;
+	background-repeat: no-repeat;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.white_bg ul {
+	font-size: 16px;
+}
+
+.white_bg h1 {
+	font-weight: 500;
+	color: #EB7220;
+	margin-top: 60px;
+}
+
+		.orange_bg  {
+	background-color: #eb7220;
+			padding: 10px 50px;
+
+}
+
+.local_bg{
+	background-image: url('../images/local_bg.png');
+	background-position: top center;
+	background-size: cover;
+}
+
+.local_bg h2{
+	font-weight: 500;
+	color: #EB7220;
+	margin-top: 30px;text-transform: uppercase;
+}
+
+.local_place_bg{
+	padding: 40px 0;
+	min-height: 290px;
+}
+
+.local_desc{
+	padding: 30px 80px;
+color: #ffffff;
+}
+
+.black_bg{
+	background-color: rgba(0,0,0,0.6)
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #ffffff;
+	font-size: 14px;
+	padding: 30px;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>.active>a:hover {
+	color: #eeeeee;
+	background-image: url(../images/hover.png);
+	background-position: center center;
+	background-size: cover;
+}
+.navbar-inverse .navbar-nav>.active>a {
+	background-color: none;
+	color: #D0BE40;
+	background-image: url(../images/hover.png);
+	background-position: center center;
+	background-size: cover;
+}
+.navbar-inverse {
+	background-color: #000000;
+	height: 86px;
+	margin: 0;
+	z-index: 1000;
+}
+
+.fix-menu{
+	position: fixed;
+	width: 100%;
+	top: 0;
+}
+
+
+
+.navbar-inverse .navbar-brand img {
+	padding-left: 30px;
+	height: 52px;
+}
+div.lang_box {
+	padding-right: 30px;
+	width: 100%;
+	text-align: right;
+}
+
+	div.lang_box {
+	
+	color: #EB7220;
+}
+
+.hero_banner {
+	height: 320px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+
+
+.club_bg{
+	background-color: none;
+	background-image: url(../images/club_bg.png);
+	background-position: top center;
+	background-size: cover;
+}
+
+
+.club_bg h2{
+	font-weight: 500;
+
+	margin-top: 30px;text-transform: uppercase;
+}
+
+.club_promo{
+	background-position: center;
+	background-size: cover;
+	height: 250px;
+		color: #EB7220;
+}
+
+.club_promo::before{
+	display: block;
+content: "";
+background-color: rgba(0, 0, 0, .4);
+height: 100%;
+width: 100%
+}
+
+.club_title{
+	color: #ffce3d; padding-left: 65px;
+}
+
+
+.club_text_box{
+	position: absolute;
+	padding: 30px 80px;
+	color: #ffffff;
+}
+
+
+.club_text_box h3{
+	color:#ffce3d;
+	text-transform: uppercase;
+}
+
+.who_bg{
+	color: #ffffff;
+	background-size: cover;
+	background-image: url('../images/bg_who_we_are.png');
+}
+
+.who_text_box{
+	width: 85%;
+	margin: auto;
+	padding: 40px;
+	
+}
+
+.who_silder_box{
+	text-align: left;
+	padding-bottom: 30px;
+	background-color: rgba(46, 45, 45, .8);
+}
+
+.who_silder_box .caption{
+	padding: 8px;
+}
+
+.who_silder_text_box{
+	padding-left: 100px;
+}
+
+.who_silder_text_box h2{
+	color: #d62617;
+}
+.who_silder_text_box h3{
+	color: #ffffff;
+	margin-top: 0;
+}
+
+.jobs_bg{
+	background-color: #ffffff;
+	padding-bottom: 30px;
+	text-align: left;
+	padding: 30px 100px 40px
+	
+}
+
+.jobs_bg h2{
+	color: #ffffff;
+	text-align: center;
+	padding: 10px;
+	width: 100%;
+	background-color: #EF7102;
+	margin-bottom: 20px;
+}
+
+.jobs_bg a{
+	color: #d62617;
+	font-size: 24px;
+	font-weight: 900;
+}
+
+.footer_top{
+	background-color: #1A1919;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	
+	background-image: url(../images/bg.png);
+	background-size: 60%;
+	background-position: left;
+	background-repeat: no-repeat;
+}
+
+.footer_content{
+	text-align: left;
+	min-width: 200px;
+	display: inline-block;
+	color: #cccccc;
+}
+
+.footer_buttom{
+	background-color:  #1A1919;
+
+}
+
+.copyright{
+		padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+@media screen and (max-width:1200px){
+	.navbar-inverse .navbar-nav>li>a {
+		padding: 30px 15px;
+	}
+		.navbar-inverse .navbar-brand img {
+		padding: 0;
+			height: 50px;
+	}
+	
+	
+	
+}
+
+@media screen and (max-width:767px) {
+	
+	
+	.navbar-inverse.fix-menu .navbar-brand img{
+	
+	height: 40px;
+}
+	
+	.navbar-inverse.fix-menu .navbar-header{
+		height: 70px;
+	}
+	
+	
+
+div.lang_box {
+	margin-right: 25px;
+	text-align: center;
+}
+.navbar-inverse .navbar-brand {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+}
+.navbar-inverse .navbar-brand img {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	padding-left: 0;
+	height: 52px;
+}
+.navbar-inverse .navbar-brand img {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	padding-left: 0;
+}
+.navbar-inverse .navbar-header {
+	display: block;
+	height: 80px;
+}
+.navbar-inverse .container {
+	padding: 0;
+	margin: 0;
+}
+.menu_bt_box {
+	float: left;
+	width: 100%;
+	text-align: center;
+	background-color: #1A1919;
+	padding: 5px;
+}
+.menu_bt_box button.navbar-toggle {
+	border: none;
+	float: none;
+	padding: 12px;
+	margin: 0;
+	
+}
+	.menu_bt_box button.navbar-toggle .icon-bar {
+	
+	background-color: #EB7220;
+}
+	.navbar-inverse .navbar-nav>li>a {
+	color: #ffffff;
+	font-size: 14px;
+	padding: 10px;
+		background-color: #000000;
+		text-align: center;
+}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>.active>a:hover {
+	color: #666666;
+	background-color: #000000;
+}
+	.navbar-nav{
+		margin: 0;
+		
+	}
+	
+	.hero_banner {
+	height: 120px;
+}
+	.white_bg{
+
+
+	background-position: center;
+
+}
+	.white_bg h1 {
+	margin-top: 0;
+}
+		.white_bg  {
+	background-size: 120%;
+}
+	
+			.orange_bg  {
+	background-color: #eb7220;
+			padding: 10px 10px;
+
+}
+	
+	.local_desc{
+		padding: 20px 20px;
+	}
+	
+	.local_place_bg{
+		padding: 0;
+		min-height: 200px;
+	}
+	
+	.club_text_box{
+		padding: 10px;
+	}
+	
+	.club_title{
+	padding-left: 0;
+}
+	
+	.who_text_box{
+		padding: 0;
+	}
+	
+	.who_silder_text_box{
+		padding: 10px;
+	}
+	
+	.jobs_bg{
+		padding: 0;
+	}
+
+	
+	.footer_content{
+	text-align: center;
+	min-width: 100%;
+	display: inline-block;
+		padding-bottom: 20px;
+}
+
+	
+}

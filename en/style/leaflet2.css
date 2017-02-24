@@ -1,0 +1,89 @@
+.leaflets {
+	color: #000000;
+background: -webkit-gradient(linear,right center,left center,from(#ff5c01),to(#ffcb27));
+	/*background: #ff7e0b;*/
+}
+
+.leaflets h2{
+	color: #ffce3d;
+	margin-bottom: 0;
+}
+
+.leaflet_detail {
+	padding: 30px;
+}
+
+.leaflet_left {
+	padding: 0 20px;
+}
+
+.leaflet_left_bottom {
+	background: #ffe7c5;
+	padding: 10px;
+}
+
+.right_footer_title {
+	color: rgba(245,125,34,1.00);
+}
+
+.leaflet_right {
+	padding: 0 20px;
+}
+
+.leaflet_right_table {
+	color: #ffffff;
+}
+
+.leaflet_right_card {
+	margin: 10px;
+}
+
+.card {
+	background-color: rgba(255, 255, 255, 0.18);
+}
+
+.card_box {
+	padding: 10px 0px 0px;
+}
+
+.card_box p {
+	border-top: 1px solid #ffffff;padding: 5px 0 0;
+}
+
+.table_content {
+	/*text-align: center;*/
+}
+
+.table_content_box{
+	padding: 0px 2px;
+}
+
+.table_content_title {
+	background-color: rgba(255, 255, 255, 0.18);
+	padding: 10px 30px;
+	text-align: center;
+}
+
+.table_content_gird {
+	background-color: rgba(255, 255, 255, 0.18);
+	padding: 30px 0;
+	text-align: center;
+
+}
+
+
+
+@media screen and (max-width:767px) {
+	.leaflet_detail{
+		padding: 10px;
+	}
+
+	.leaflet_left {
+		padding: 0px;
+	}
+
+	.leaflet_right_logo {
+		padding: 100px 0;
+	}
+
+}
