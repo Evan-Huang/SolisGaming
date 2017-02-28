@@ -30,6 +30,20 @@ a:hover {
 .navbar-collapse a {
 	text-transform: uppercase;
 }
+
+
+	.navbar-nav .open .dropdown-menu {
+    background-color: #333333;
+		right:-41px;
+}
+	 .navbar-nav .open .dropdown-menu>li>a{
+    color: #ffffff;
+}
+	 .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: #666666;
+		 background-color: transparent;
+}
+
 .white_bg{
 	background-color: #ffffff;
 	background-image: url(../images/bg.png);
@@ -275,7 +289,8 @@ width: 100%
 
 .footer_content_box {
 	padding: 20px 30px;
-	width: 380px;
+	width: 100%;
+	margin-right: 20px;
 	background: #1a1919;
 	position: absolute;
 	top: -40px;
@@ -376,8 +391,21 @@ width: 100%
 	
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:982px) {
 	
+	li.li_bt_home{
+		display: none;
+	}
+	.footer_content_box{
+		position: relative;
+	}
+	.footer_content{
+		width: 100%;
+	
+	}
+}
+
+@media screen and (max-width:767px) {
 	
 	.navbar-inverse.fix-menu .navbar-brand img{
 	
@@ -393,7 +421,11 @@ width: 100%
 }
 
 	.navbar-nav .open .dropdown-menu {
-    background-color: #000000;
+    background-color: #333333;
+}
+
+		.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: #666666;
 }
 
 	
@@ -534,8 +566,7 @@ div.lang_box {
 
 	.footer_content_box {
 		padding: 20px 30px;
-		padding-right: 60px;
-		width: 380px;
+		width: 100%;
 		background: #1a1919;
 		position: relative;
 		top: 0px;

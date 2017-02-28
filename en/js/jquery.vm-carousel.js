@@ -15,7 +15,7 @@
 	 * @type {}
 	 */
 	var defaults = {
-		delay: 4000,
+		delay: 400,
 		speed: 500,
 		autoplay: true,
 		items_to_show: 0, // 0 for auto calc
@@ -23,9 +23,9 @@
 		items_to_slide: 1,
 		dont_cut: true,
 		centered: false,
-		start_item: 0,
+		start_item: Math.floor((Math.random() * 4)),
 		start_item_centered: false,
-		infinite: false,
+		infinite: true,
 		changed_slide: $.noop()
 	};
 

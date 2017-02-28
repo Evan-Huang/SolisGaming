@@ -42,7 +42,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="index.html" class="button" >HOME<span class="sr-only">(current)</span></a></li>
+        <li class="li_bt_home active"><a href="index.html" class="button" >HOME<span class="sr-only">(current)</span></a></li>
         <li><a href="#who" class="button" rel="who" >WHO WE ARE</a></li>
         <li><a href="#location" class="button" rel="location" >Our Locations</a></li>
         <li class="dropdown">
@@ -403,6 +403,16 @@ $(".button").click(function() {
 
 
 });
+	
+	  // ADD SLIDEDOWN ANIMATION TO DROPDOWN //
+  $('.dropdown').on('show.bs.dropdown', function(e){
+    $(this).find('.dropdown-menu').first().stop(true, true).slideDown();
+  });
+
+  // ADD SLIDEUP ANIMATION TO DROPDOWN //
+  $('.dropdown').on('hide.bs.dropdown', function(e){
+    $(this).find('.dropdown-menu').hide();
+  });
 
 
           
