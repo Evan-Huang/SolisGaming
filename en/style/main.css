@@ -72,6 +72,7 @@ a:hover {
 
 .local_bg{
 	background-image: url('../images/local_bg.png');
+	background-color: rgba(0,0,0,0.3);
 	background-position: top center;
 	background-size: cover;
 }
@@ -89,7 +90,7 @@ a:hover {
 
 .local_desc{
 	padding: 30px 80px;
-color: #ffffff;
+color: #000000;
 }
 
 .black_bg{
