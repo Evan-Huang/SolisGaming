@@ -185,10 +185,21 @@ height: 100%;
 width: 100%
 }
 
+table{
+	color: #ffffff;
+}
+
+.table>tbody>tr>td {
+    border: none;
+}
+
 .club_title{
 	color: #ffce3d; padding-left: 65px;
 }
 
+.club_title span{
+	 color: #ffffff;
+}
 
 .club_text_box{
 	position: absolute;
