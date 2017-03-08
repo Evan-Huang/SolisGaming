@@ -1,3 +1,72 @@
 .contact_content {
 	padding: 50px;
+	margin: 50px;
+	background-color: #1a1919;
+}
+
+.bg_image {
+	margin-left: -15px;
+	margin-right: -15px;
+	background-image: url(../images/club_bg.png);
+	background-position: top center;
+	background-size: cover;
+}
+
+.title {
+	color: #FF5722;
+}
+
+.contactus {
+	height: 220px;
+}
+
+.contactus_tagline {
+	padding-left: 40px;
+	padding: 40px;
+}
+
+.contactus h2 {
+	color: #ffce3d;
+	margin-bottom: 0;
+	letter-spacing: 6px;
+}
+
+.crumb {
+	padding: 20px;
+	font-size: 18px;
+}
+
+label {
+	color: #ffffff;
+	font-weight: normal;
+}
+
+.contact_content input {
+	width: 60%;
+	background-color: #484747;
+	border-color: #484747;
+}
+
+.form-group textarea {
+	background-color: #484747;
+	border-color: #484747;
+}
+
+.contact_content button {
+	color: #ffffff;
+	background-color: #FF5722;
+	border: none;
+	font-weight: normal;
+	letter-spacing: 2px;
+}
+
+@media screen and (max-width:767px){
+	.contact_content {
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.contact_content input {
+		width: 100%;
+	}
 }
