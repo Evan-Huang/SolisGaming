@@ -22,51 +22,11 @@
 <script src="js/modernizr.js"></script>
 </head>
 <body class="promotions">
-<div class="container-fluid top_lang_bar">
-  <div class="container ">
-    <div class="row">
-      <div class="col-md-4 col-md-offset-8 " >
-        <div class="lang_box"> <a href="../tc/index.html">繁體中文</a>｜ <a href="../sc/index.html">简体中文</a> ｜ <a href="index.html">ENG</a> </div>
-      </div>
-    </div>
-  </div>
-</div>
-<nav class="navbar navbar-inverse" id="wrap">
-  <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header"> <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="" class="img-responsive"></a> </div>
-    <div class="menu_bt_box">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="true"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="li_bt_home "><a href="index.html" class="button" >HOME<span class="sr-only">(current)</span></a></li>
-        <li><a href="#who" class="button" rel="who" >WHO WE ARE</a></li>
-        <li><a href="#location" class="button" rel="location" >Our Locations</a></li>
-        <li class="dropdown active">
-            <a href="#" class="dropdown-toggle " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Club Solis</a>
-            <ul class="dropdown-menu" style="text-align:center">
-              <li><a href="#club">Clue Solis Intro</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Membership</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Benefits of membership</a></li>
-              <li role="separator" class="divider"></li>
-              <li class="active"><a href="promotions.html">Promotion</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Redemption Program</a></li>
-            </ul>
-        </li>
-        <li><a href="#jobs" class="button" rel="jobs" >CAREERS</a></li>
-        <li><a href="#contactus" class="button" >Contact Us</a></li>
-      </ul>
-    </div>
-    <!-- /.navbar-collapse -->
-  </div>
-  <!-- /.container-fluid -->
-</nav>
+<!-- Header -->
+<?php
+    include_once 'header.html';
+?>
+<!-- /Header -->
 <div class="container-fluid" style="z-index: 1">
   <div class="container ">
     <div class="row">
@@ -143,23 +103,11 @@
   </div>
 </div>
 <footer>
-  <div class="container footer_top">
-    <div class="row">
-      <div class="col-md-4 text-center">
-        <div class="footer_content">
-          <p>888 - 888 888 8888</p>
-          <p>cs@solis.com</p>
-        </div>
-      </div>
-      <div class="col-md-4 text-center"> <img src="images/card_face.png" alt="" class="img-responsive"> </div>
-      <div class="col-md-4 text-center"> <img src="images/logo_solis_gray.png" alt="" style="width:60%"> </div>
-    </div>
-  </div>
-  <div class="container-fluid footer_bottom">
-    <div class="row copyright">
-      <div class="col-md-12 text-center"> ©2016 SOLIS. ALL RIGHTS RESERVED. </div>
-    </div>
-  </div>
+    <!-- Footer -->
+    <?php
+        include_once 'footer.html';
+    ?>
+    <!-- /Footer -->
 </footer>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -185,16 +133,12 @@
 
     });
 
-$(".button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#"+$(this).attr( "rel" )).offset().top-100
-    }, 1000);
-	$('#bs-navbar-collapse-1').removeClass('in');
-	$(this.parentNode).parent().children('li').removeClass('active');
-	$(this.parentNode).addClass('active');
+    $(document).ready(function(){
 
+        $('.li_bt_home').removeClass('active');
+        $("#bs-navbar-collapse-1 li[class='dropdown']").addClass('active');
 
-});
+    });
 
 
 	</script>

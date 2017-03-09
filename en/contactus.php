@@ -22,55 +22,11 @@
 <script src="js/modernizr.js"></script>
 </head>
 <body>
-<div class="container-fluid top_lang_bar">
-  <div class="container ">
-    <div class="row">
-      <div class="col-md-4 col-md-offset-8 " >
-        <div class="lang_box"> <a href="../tc/index.html">繁體中文</a>｜ <a href="../sc/index.html">简体中文</a> ｜ <a href="">ENG</a> </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<nav class="navbar navbar-inverse" id="wrap">
-  <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header"> <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="" class="img-responsive"></a> </div>
-    <div class="menu_bt_box">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-1" aria-expanded="true"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li class=""><a href="index.html" class="button" >HOME<span class="sr-only">(current)</span></a></li>
-        <li><a href="index.html#who" class="button" rel="who" >WHO WE ARE</a></li>
-        <li><a href="index.html#location" class="button" rel="location" >Our Locations</a></li>
-        <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >Club Solis</a>
-            <ul class="dropdown-menu" style="text-align:center">
-              <li><a href="#club">Clue Solis Intro</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Membership</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Something else here</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Benefits of membership</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="promotions.html">Promotion</a></li>
-              <li role="separator" class="divider"></li>
-              <li><a href="#">Redemption Program</a></li>
-            </ul>
-        </li>
-        <li><a href="index.html#jobs" class="button" rel="jobs" >CAREERS</a></li>
-        <li class="active"><a href="concactus.html" class="button" >Contact Us</a></li>
-      </ul>
-    </div>
-    <!-- /.navbar-collapse -->
-  </div>
-  <!-- /.container-fluid -->
-</nav>
-
+<!-- Header -->
+<?php
+    include_once 'header.html';
+?>
+<!-- /Header -->
 <div class="container-fluid" style="z-index: 1">
   <div class="container ">
     <div class="row">
@@ -106,16 +62,16 @@
                   <h4>Customer Service Hotline :+853-6228 1280</h4>
               </div>
               <div class="col-md-5 col-md-offset-2">
-                <h4>Grandview Hotel Macau</h4>
-                <p>1/F,SOLIS Grandview Slot Lounge</p>
-                <p>142 Estrada Governador Albano de Oliverira,Taipa,Macau</p>
-                <h4>Customer Service Hotline :+853-6228 1280</h4>
+                <h4>Casa Real Hotel</h4>
+                <p>1 & 2/F, SOLIS Casa Real Slot Lounge</p>
+                <p>1118 Avenida do. Dr. Rodrigo Rodrigues, Macau</p>
+                <h4>Customer Service Hotline: +853 - 6228 1312</h4>
               </div>
               <div class="col-md-5">
-                <h4>Grandview Hotel Macau</h4>
-                <p>1/F,SOLIS Grandview Slot Lounge</p>
-                <p>142 Estrada Governador Albano de Oliverira,Taipa,Macau</p>
-                <h4 style="border-bottom: none;">Customer Service Hotline :+853-6228 1280</h4>
+                <h4>The Landmark Macau</h4>
+                <p>3/F, SOLIS The Landmark Slot Lounge</p>
+                <p>555 Avenida da Amizade, Macau.</p>
+                <h4 style="border-bottom: none;">Customer Service Hotline: +853 - 6228 0770</h4>
               </div>
           </div>
         </div>
@@ -141,7 +97,7 @@
               <h3 class="solismacau">Vietnam</h3>
               <p class="office_content">7th Floor, 60 Nguyen Van Thu Street Da Kao Ward,
                 District 1,  Ho Chin Minh City, Vietnam</p>
-              <p>Customer Service Hotline:  +84 - 8668 19801</p>
+              <p class="office_hotline">Customer Service Hotline:  +84 - 8668 19801</p>
               <p class="office_email" style="border-bottom: none;">Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -187,58 +143,11 @@
 </div>
 
 <footer>
-  <div class="container footer_top">
-    <div class="row">
-
-      <div class="col-md-8 col-md-offset-1">
-        <div class="footer_content">
-          <h4>CONTACT INFO</h4>
-          <div class="row footer_content_box">
-            <div class="col-md-4">
-              <p>Grandview Hotel Macau</p>
-              <p>Customer Service Hotline</p>
-              <p>+853-6228 1280</p>
-            </div>
-            <div class="col-md-4">
-              <p>Casa Real Hotel</p>
-              <p>Customer Service Hotline</p>
-              <p>+853-6228 1312</p>
-            </div>
-            <div class="col-md-4">
-              <p>The Landmark Macau</p>
-              <p>Customer Service Hotline</p>
-              <p>+853-6228 0770</p>
-            </div>
-          </div>
-          <h4>E-mail:info@solismacau.com</h4>
-          <div class="col-md-8 footer_content_cards" >
-            <img style="" src="images/card_face.png" alt="" class="img-responsive">
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 text-center">
-        <!--<img src="images/logo_solis_gray.png" alt="" style="width:60%">-->
-        <div class="text-left footer_content_right" >
-          <h4 style="font-weight: normal;">FOLLOW US</h4>
-        </div>
-        <div class="follow-imgs">
-          <img src="images/facebook.png" class="img-responsive" >
-          <img src="images/wechat.png" class="img-responsive"  >
-          <img src="images/linkedln.png" class="img-responsive" ><br>
-          <img src="images/qrcode.png" class="img-responsive" >
-        </div>
-      </div>
-
-    </div>
-  </div>
-  <div class="container-fluid footer_bottom">
-    <div class="row copyright">
-      <div class="col-md-12 text-right">
-        <p >©2017 SOLIS INTERNATIONAL. ALL RIGHTS RESERVED.</p>
-      </div>
-    </div>
-  </div>
+    <!-- Footer -->
+    <?php
+        include_once 'footer.html';
+    ?>
+    <!-- /Footer -->
 </footer>
 
 
@@ -265,17 +174,14 @@
         }
 
     });
+    $(document).ready(function(){
 
-$(".button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#"+$(this).attr( "rel" )).offset().top-100
-    }, 1000);
-	$('#bs-navbar-collapse-1').removeClass('in');
-	$(this.parentNode).parent().children('li').removeClass('active');
-	$(this.parentNode).addClass('active');
+        $('.li_bt_home').removeClass('active');
+        $("#bs-navbar-collapse-1 ul>li:last").addClass('active');
+
+    });
 
 
-});
 
 
 
