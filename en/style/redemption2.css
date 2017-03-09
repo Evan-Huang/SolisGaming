@@ -1,0 +1,317 @@
+
+body {
+    background: #ffffff;
+}
+
+h4 {
+    color: #000000;
+}
+
+h5 {
+    color: #EB7220;
+}
+
+h6 {
+    color: #ccc;
+}
+
+p {
+    color: #ccc;
+}
+
+.list_space {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #ffffff;
+}
+
+.luxury_top {
+    background-color: #ffffff;
+    border:1px solid #ccc;
+}
+
+.luxury_center {
+    background-color: #EB7220;
+    border:1px solid #ccc;
+}
+
+.luxury_cn {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #EB7220;
+}
+
+.item_bottom {
+    padding-top: 30px;
+}
+
+.technology_item1 {
+    padding: 0px;
+}
+
+.technology_item1 h6{
+    margin: 0px;
+}
+
+.technology_item1_1 {
+    border: 1px solid #ccc;
+
+}
+
+.technology_item1_1 p {
+    padding-top: 140px;
+    margin-bottom: 0px;
+}
+
+.technology_item1_2 {
+    border: 1px solid #ccc;
+}
+
+.technology_item1_2 p {
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+.technology_item2 {
+    padding: 0px;
+}
+
+.technology_item2 h6{
+    margin: 0px;
+}
+
+.technology_item2_1 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item2_1 p {
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+.technology_item2_2 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item2_2 p {
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+.technology_item2_3 {
+    border: 1px solid #ccc;
+    clear: both;
+}
+
+.technology_item2_3 p {
+    padding-top: 113px;
+    margin-bottom: 0px;
+}
+
+.technology_item3 {
+    padding: 0px;
+}
+
+.technology_item3 h6{
+    margin: 0px;
+}
+
+.technology_item3_1 {
+    border: 1px solid #ccc;
+
+}
+
+.technology_item3_1 p {
+    padding-top: 94px;
+    margin-bottom: 0px;
+}
+
+.technology_item3_2 {
+    border: 1px solid #ccc;
+}
+
+.technology_item3_2 p {
+    padding-top: 94px;
+    margin-bottom: 0px;
+}
+
+.technology_item4 {
+    padding: 0px;
+}
+
+.technology_item4 h6{
+    margin: 0px;
+}
+
+.technology_item4_1 {
+    border: 1px solid #ccc;
+
+}
+
+.technology_item4_1 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_2 {
+    border: 1px solid #ccc;
+}
+
+.technology_item4_2 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_3 {
+    border: 1px solid #ccc;
+
+}
+
+.technology_item4_3 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_4 {
+    border: 1px solid #ccc;
+}
+
+.technology_item4_4 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item5 {
+    padding: 0px;
+}
+
+.technology_item5 h6{
+    margin: 0px;
+}
+
+.technology_item5_1 {
+    border: 1px solid #ccc;
+
+}
+
+.technology_item5_1 p {
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_2 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item5_2 p {
+    padding-top: 48px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_3 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item5_3 p {
+    padding-top: 48px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_4 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item5_4 p {
+    padding-top: 48px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_5 {
+    border: 1px solid #ccc;
+    width: 50%;
+}
+
+.technology_item5_5 p {
+    padding-top: 48px;
+    margin-bottom: 0px;
+}
+
+.technology_item6 {
+    padding: 0px;
+}
+
+.technology_item6 h6{
+    margin: 0px;
+}
+
+.technology_item6_1 {
+    border: 1px solid #ccc;
+}
+
+.technology_item6_1 p {
+    padding-top: 70px;
+    margin-bottom: 0px;
+}
+
+.technology_item6_2 {
+    border: 1px solid #ccc;
+}
+
+.technology_item6_2 p {
+    padding-top: 94px;
+    margin-bottom: 0px;
+}
+
+.redemption_item_box {
+    background-color: #EB7220;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.redemption_item_title {
+    display: inline-block;
+    padding: 5px 5px 0 5px;
+    width: 100%;
+}
+
+.redemption_item_title p:first-child {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+.redemption_item_title p:last-child {
+    padding-right: 30px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+.redemption_item {
+    display: inline-block;
+    padding: 0 5px;
+    width: 100%;
+}
+
+.redemption_item p:first-child {
+    margin: 0;
+}
+
+.redemption_item p:last-child {
+    padding-right: 60px;
+    padding-top: 10px;
+    margin: 0;
+}
+
+.item_bg {
+    background-color: rgba(0,0,0,.5);
+}
+
+.redemption_item::after {
+    /*clear: both;*/
+}
