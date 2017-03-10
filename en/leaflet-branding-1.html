@@ -105,6 +105,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
-
+<script>
+    //    返回上一頁面
+    window.document.onkeydown = disableRefresh;
+    function disableRefresh(evt){
+        evt = (evt) ? evt : window.event
+        if (evt.keyCode == 8) {
+            history.back();
+        }
+    }
+</script>
 </body>
 </html>
