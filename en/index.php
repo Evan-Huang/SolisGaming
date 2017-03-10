@@ -149,7 +149,7 @@
         <div class="local_desc text-center"> <img src="images/logo_solis_club.png" alt="" class="" style="width: 60%"> </div>
       </div>
       <div class="col-md-6 local_place_bg ">
-       <a href="promotions.html">
+       <a href="promotions.php">
         <div class="club_text_box">
           <h3>Promotions</h3>
           <p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
@@ -158,9 +158,9 @@
         <div class="club_promo text-center" style="background-image: url('images/club_promo_bg.jpg')"> </div>
         </a> </div>
       <div class="col-md-6 local_place_bg">
-        <a href="benefits.html">
+        <a href="benefits.php">
         <div class="club_text_box">
-          <h3>Benefits Grid</h3>
+          <h3>Benefits of Membership</h3>
           <p>Discover the benefits of being a Club Solis member.</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
