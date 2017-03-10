@@ -330,8 +330,15 @@ $(".button").click(function() {
     $(this).find('.dropdown-menu').hide();
   });
 
-
-          
+    //    返回上一頁面
+    window.document.onkeydown = disableRefresh;
+    function disableRefresh(evt){
+        evt = (evt) ? evt : window.event
+        if (evt.keyCode == 8) {
+            history.back();
+        }
+    }
+   
 
 
 	</script>
