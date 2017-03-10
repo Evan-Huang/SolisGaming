@@ -49,24 +49,21 @@
             <div class="item slides active">
               <div class="slide-5"></div>
               <div class="intro">
-                <h1><strong>SOLIS</strong></h1>
-                <h3> - Thrill Your Senses</h3>
+                <h1>Thrill Your Senses</h1>
               </div>
             </div>
             
             <div class="item slides ">
               <div class="slide-4"></div>
               <div class="intro">
-                <h1><strong>SOLIS</strong></h1>
-                <h3> - Thrill Your Senses</h3>
+                <h1>Thrill Your Senses</h1>
               </div>
             </div>  
             
             <div class="item slides ">
               <div class="slide-3"></div>
               <div class="intro">
-                <h1><strong>SOLIS</strong></h1>
-                <h3> - Thrill Your Senses</h3>
+                <h1>Thrill Your Senses</h1>
               </div>
             </div>                                  
             
@@ -81,12 +78,12 @@
       <div class="col-md-6">
         <h1 class="text-center">WHO WE ARE</h1>
       </div>
-      <div class="col-md-6">
-        <ul>
-          <li>SOLIS, meaning the Sun in Spanish, with magnificent power from the centre of universe. From the ancient Inca principles to the nowadays modern civilisation, it is commonly believed that the Sun symbolizes the giver of life, the source of strength and power which derives the desirable success and excitement.</li>
-          <li>The Sun also manifests the colour of gold at sunrise and at sunset. The uniqueness of Gold has been associated with the luck, wealth and prosperity for decades. </li>
-          <li>Be the power of universe and thrill your senses at SOLIS!</li>
-        </ul>
+      <div class="col-md-6 who_text_p">
+       
+          <p>SOLIS, meaning the Sun in Spanish, with magnificent power from the centre of universe. From the ancient Inca principles to the nowadays modern civilisation, it is commonly believed that the Sun symbolizes the giver of life, the source of strength and power which derives the desirable success and excitement.</p>
+          <p>The Sun also manifests the colour of gold at sunrise and at sunset. The uniqueness of Gold has been associated with the luck, wealth and prosperity for decades. </p>
+          <p>Be the power of universe and thrill your senses at SOLIS!</p>
+       
       </div>
     </div>
     <div class="row orange_bg"> <img src="images/theme_images.png" alt="" class="img-responsive"> </div>
@@ -100,29 +97,34 @@
       	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs" width="100%" height="320"></iframe>
       </div>
       <div class="col-md-4 local_place_bg"> 
+       <div class="text-center local_img"><img src="images/location_1.jpg" alt="" class="img-responsive"></div>
         <div class="local_desc">
           <h4>Grandview Hotel Macau</h4>
-          <p>1/F, SOLIS Grandview Macau Slot Lounge</p>
-          <p>142 Estrada Governador Albano de Oliveira, Taipa, Macau </p>
-          <p>Customer Service Hotline: +853 - 6228 1280</p>
+          <p>1/F, SOLIS Grandview Macau Slot Lounge 142 Estrada Governador Albano de Oliveira, Taipa, Macau </p>
+          <p>Customer Service Hotline: <br>
+<strong>+853 - 6228 1280</strong></p>
           <p>Email: info@solismacau.com</p>
         </div>
 		</div>
-       <div class="col-md-4 local_place_bg">   
+       <div class="col-md-4 local_place_bg">  
+       <div class="text-center local_img"><img src="images/location_2.jpg" alt="" class="img-responsive"></div> 
         <div class="local_desc">
           <h4>Casa Real Hotel</h4>
-          <p>1 & 2/F, SOLIS Casa Real Slot Lounge</p>
-          <p>1118 Avenida do. Dr. Rodrigo Rodrigues, Macau</p>
-          <p>Customer Service Hotline: +853 - 6228 1312</p>
+          <p>1 & 2/F, SOLIS Casa Real Slot Lounge
+          1118 Avenida do. Dr. Rodrigo Rodrigues, Macau</p>
+          <p>Customer Service Hotline: <br>
+<strong>+853 - 6228 1312</strong></p>
           <p>Email: info@solismacau.com</p>
         </div>
         </div>
        <div class="col-md-4 local_place_bg">  
+       <div class="text-center local_img"><img src="images/location_3.jpg" alt="" class="img-responsive"></div>
         <div class="local_desc">
           <h4>The Landmark Macau</h4>
-          <p>3/F, SOLIS The Landmark Macau Slot Lounge</p>
-          <p>555 Avenida da Amizade, Macau</p>
-          <p>Customer Service Hotline: +853 - 6228 0770</p>
+          <p>3/F, SOLIS The Landmark Macau Slot Lounge 
+555 Avenida da Amizade, Macau</p>
+          <p>Customer Service Hotline: <br>
+<strong>+853 - 6228 0770</strong></p>
           <p>Email: info@solismacau.com</p>   
         </div>
         </div>
@@ -135,12 +137,12 @@
         <h2 class="text-center">CLUB SOLIS </h2>
       </div>
       <div class="col-md-6 local_place_bg">
-        <div class="local_desc" style="color: #ffffff">
-          <ul>
-            <li>Welcome to the world of Club SOLIS, one of the most preferred membership program offers the exciting experience, the endless rewards, exclusive privileges and personalized customer service. </li>
-            <li>Action now to enter the globe where only the best experiences and wide array of amazing rewards await you!</li>
+        <div class="local_desc text-justify" style="color: #ffffff">
+        
+            <p>Welcome to the world of Club SOLIS, one of the most preferred membership program offers the exciting experience, the endless rewards, exclusive privileges and personalized customer service. </p>
+            <p>Action now to enter the globe where only the best experiences and wide array of amazing rewards await you!</p>
 
-          </ul>
+          
         </div>
       </div>
       <div class="col-md-6 local_place_bg">
@@ -164,13 +166,13 @@
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>
       <div class="col-md-12" id="cards">
-        <h2 class="club_title">Club Solis Cards <span>TIER MEANINGS:</span></h2>
+        <h2 class="club_title">Club Solis Cards TIER:</h2>
       </div>
 	<div class="col-md-12 local_place_bg ">
 			<table class="table borderless">
 			<tr>
 			<td width="70%" style="padding-left: 6%">
-		 <h4 >• Star</h4>
+		 <h4 >STAR</h4>
           <p>Welcome to the world of Club SOLIS and open the door to victory and exciting privileges!</p>
 			</td>
 			<td width="30%" align="center">
@@ -179,7 +181,7 @@
 			</tr>
 						<tr>
 			<td style="padding-left: 6%">
-		 <h4 >• Celestial</h4>
+		 <h4 >CELESTIAL</h4>
         <p>Earn 3,888 points or more in the last 6 months.</p>
 			</td>
 			<td align="center">
@@ -188,7 +190,7 @@
 			</tr>
 						<tr>
 			<td style="padding-left: 6%">
-		 <h4 >• Solstice</h4>
+		 <h4 >SOLSTICE</h4>
           <p>Earn 26,888 points or more in the last 6 months.</p>
 			</td>
 			<td align="center">
@@ -197,7 +199,7 @@
 			</tr>
 						<tr>
 			<td style="padding-left: 6%">
-		 <h4 >• Equino</h4>
+		 <h4 >EQUINO</h4>
           <p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>	
 			</td>
 			<td align="center">
@@ -212,7 +214,7 @@
     <!-- Who we are -->
     <div class="row who_bg" id="about">
       <div class="col-lg-12">
-        <div class="who_text_box">
+        <div class="who_text_box text-justify">
           <h2 class="text-center">ABOUT SOLIS</h2>
           <p><strong>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</strong></p>
           <p><strong>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</strong></p>
@@ -260,7 +262,7 @@
       </div>
       <div class="col-xs-6 col-md-3"><img src="images/jobs_photo2.jpg" alt="" class="img-responsive"></div>
       <div class="col-xs-6 col-md-3"><img src="images/jobs_photo1.jpg" alt="" class="img-responsive"></div>
-      <div class="col-md-6">
+      <div class="col-md-6 text-justify">
         <p><strong>Become Part of the SOLIS Family</strong></p>
         <p>At SOLIS, you will experience much more than just a career in a fun, friendly and exciting environment. You’ll achieve your dream career that offers exceptional opportunities for professional advancement and personal accomplishment. We offer excellent benefits, insurance and comprehensive career advancement program.</p>
         <p>For information on Career Opportunities to apply a specfic position, please EMAIL YOUR RESUME to <a href="mailto:hra@solismacau.com">hra@solismacau.com</a></p>
@@ -330,21 +332,6 @@ $(".button").click(function() {
 
 
           
-$("#card1").click(function() {
-    $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Star</p><p>Welcome to the world of Club SOLIS and open the door to victory and exciting privileges!</p>");
-});
-
-$("#card2").click(function() {
-    $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Celestial</p><p>Earn 3,888 points or more in the last 6 months.</p>");
-});
-
-$("#card3").click(function() {
-    $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Solstice</p><p>Earn 26,888 points or more in the last 6 months.</p>");
-});
-
-$("#card4").click(function() {
-    $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Equinox</p><p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>");
-});
 
 
 	</script>

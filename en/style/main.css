@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body {
 	background-color: #000000;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif; 
+	font-size: 18px;
 }
 
 h2,h4{
@@ -15,7 +16,11 @@ h3, h1{
 
 }
 
-
+.who_text_p p{
+    text-align: justify;
+    text-justify: inter-word;
+	
+}
 .top_lang_bar {
 	background-color: #1a1919;
 	padding: 5px;
@@ -88,8 +93,13 @@ a:hover {
 	min-height: 290px;
 }
 
+.local_img{
+	padding: 0 17px;
+color: #000000;
+}
+
 .local_desc{
-	padding: 30px 80px;
+	padding: 10px 50px;
 color: #000000;
 }
 
