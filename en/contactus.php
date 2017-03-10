@@ -125,11 +125,6 @@
                   <label for="message">Your Message</label>
                   <textarea style="height: 120px" class="form-control" value=""></textarea>
                 </div>
-                <div class="checkbox">
-                  <label>
-                    <input type="checkbox" style="width: initial;"> Check me out
-                  </label>
-                </div>
                 <button type="submit" class="btn btn-default">SEND</button>
               </form>
             </div>
