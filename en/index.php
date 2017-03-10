@@ -328,7 +328,7 @@ $(".button").click(function() {
     $(this).find('.dropdown-menu').hide();
   });
 
-
+/*
           
 $("#card1").click(function() {
     $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Star</p><p>Welcome to the world of Club SOLIS and open the door to victory and exciting privileges!</p>");
@@ -344,7 +344,16 @@ $("#card3").click(function() {
 
 $("#card4").click(function() {
     $("#card").html("<h4 >TIER MEANINGS:</h4><p>• Equinox</p><p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>");
-});
+});*/
+
+    //    返回上一頁面
+    window.document.onkeydown = disableRefresh;
+    function disableRefresh(evt){
+        evt = (evt) ? evt : window.event
+        if (evt.keyCode == 8) {
+            history.back();
+        }
+    }
 
 
 	</script>
