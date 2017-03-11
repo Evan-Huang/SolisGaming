@@ -5,6 +5,16 @@
 	font-size: 18px;
 }
 
+.benefit_box {
+    padding: 30px;
+}
+
+.bg_image {
+	background-image: url(../images/club_bg.png);
+	background-position: top center;
+	background-size: cover;
+    /*display: inline-block;*/
+}
 
 .benefits {
 	color: #ffffff;
@@ -25,62 +35,85 @@
 .benefit{
 		height: 220px;
 }
-.benefit_box{
-	margin: 30px 0;
-}
-.benefit_banner{
-	margin-bottom: 10px;
-	padding: 5px;
-	background-position: center center;
-	background-size: cover;
-}
-.benefit_title{
-	font-weight: 800;
-
-	color: #ffffff;
-	min-height: 60px;
-	font-size: 18px;
-	padding: 5px;
-}
-
-.benefit_detail{
-	margin: 0;
-}
-
-.benefit_detail .benefit_title{
-	font-size: 24px;
-	border-bottom: rgba(245,125,34,1.00) solid 2px;
-	padding-bottom: 10px;
-}
 
 .benefit_content{
 	padding: 5px;
 	min-height: 390px;
 }
 
-.benefit_content_row_col{
-	padding: 0px 5px;
+.benefit_content h4 {
+    letter-spacing: 6px;
 }
 
-.benefit_content_row_col p{
-	padding: 0px 5px;
-	color: #000000;
-	background: #b39e6a;
+.welcome {
+    padding: 10px 0;
 }
 
-.benefit_button{
-	width: 100%;
+.action {
+    padding: 10px 0 30px 0;
 }
-.benefit_button{
-	font-weight: 900;
-	display:inline-block;
-	width: 100%;
-	font-size: 20px;
-	text-align: center;
-	color: rgba(245,125,34,1.00);
-	border-bottom: rgba(245,125,34,1.00) solid 2px;
-	padding-bottom: 10px;
+
+.membership {
+    padding: 20px 0;
 }
+
+.membership_left p {
+    padding-right: 20px;
+}
+
+.membership_right p {
+    padding-right: 20px;
+}
+
+.points {
+padding-top: 50px;
+}
+
+.points_table tr td:nth-child(2) p {
+    padding: 0 30px;
+}
+
+.points_table tr td:nth-child(3) p {
+    padding: 0 30px;
+}
+
+.rewardsandoffers {
+    padding: 80px 0;
+}
+
+.cards {
+    border-bottom: 1px solid #ffff00;
+}
+
+.cards p {
+    text-align: center;
+    padding: 10px 0 20px 0;
+}
+
+.cards_detail p {
+    padding: 30px 0;
+}
+
+.caption {
+    color: #ffffff;
+    padding: 20px 0 30px 0;
+}
+
+.discount_redemption tr {
+    border-top:1px solid #ccc;
+}
+
+.discount_redemption td {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.discount_redemption tr td:first-child {
+    width: 40%;
+}
+
+
+
 
 @media screen and (max-width:767px) {
 	.benefit{

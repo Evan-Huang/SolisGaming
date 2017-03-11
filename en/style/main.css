@@ -603,5 +603,10 @@ div.lang_box {
 		letter-spacing: 4px;
 
 	}
+
+	.footer_content_cards {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
 	
 }
