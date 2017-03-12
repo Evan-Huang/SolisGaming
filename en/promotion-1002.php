@@ -42,8 +42,8 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="crumb">
-          <a href="index.html">Home</a> >
-          <a href="promotions.html">Promotions</a> >
+          <a href="index.php">Home</a> >
+          <a href="promotions.php">Promotions</a> >
           <a href="#">Join Club Solis, Rewards $100 E-bonus</a>
         </div>
       </div>
