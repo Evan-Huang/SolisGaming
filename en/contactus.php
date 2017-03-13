@@ -64,7 +64,7 @@
               <div class="col-md-5 col-md-offset-2">
                 <h4>Casa Real Hotel</h4>
                 <p>1 & 2/F, SOLIS Casa Real Slot Lounge</p>
-                <p>1118 Avenida do. Dr. Rodrigo Rodrigues, Macau</p>
+                <p>1118 Avenida do. Dr. Rodrigo Rodrigues, <br>Macau</p>
                 <h4>Customer Service Hotline: +853 - 6228 1312</h4>
               </div>
               <div class="col-md-5">
