@@ -243,13 +243,6 @@
   </div>
 </div>
 <footer>
-  <div class="container">
-    <div class="row" id="contactus">
-      <div class="col-lg-12 text-center">
-        <div class="footer_title"><h1>CONTACT US</h1></div>
-      </div>
-    </div>
-  </div>
     <!-- Footer -->
     <?php
         include_once 'footer.html';
