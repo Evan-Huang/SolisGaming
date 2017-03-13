@@ -1,0 +1,104 @@
+
+.crumb{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+
+.bg_image {
+    background-image: url(../images/club_bg.png);
+    background-position: top center;
+    background-size: cover;
+    /*display: inline-block;*/
+}
+
+.redemption_program_box {
+    padding: 30px;
+}
+
+.redemption_program{
+    height: 220px;
+}
+
+.redemption_program_tagline{
+    padding: 65px 45px;
+}
+
+.redemption_program_content{
+    padding: 5px;
+    min-height: 390px;
+}
+
+.redemption_program_content h4 {
+    letter-spacing: 6px;
+    padding: 20px 0;
+}
+
+.redemption_program_content p {
+    color: #ffffff;;
+}
+
+.staytuned {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+}
+
+.item_box {
+    padding: 30px 0;
+}
+
+.item_content {
+    background: #333;
+}
+
+.item_content p{
+    padding: 20px 20px;
+}
+
+.item_content p:nth-child(2){
+    display: inline-block;
+    padding: 20px 20px;
+}
+
+.item_content p:nth-child(3){
+    display: inline-block;
+    padding: 12px 20px;
+    color: #ffce3d;
+    font-size: 25px;
+}
+
+.terms {
+
+}
+
+.terms_list ol li {
+    color: #ffffff;
+    line-height: 35px;
+}
+
+
+
+@media screen and (max-width:767px) {
+    .redemption_program{
+        height: 100px;
+    }
+    .redemption_program_box{
+        padding: 10px 0;
+
+    }
+
+    .redemption_program_box p{
+        padding: 10px 0;
+
+    }
+    .redemption_program_tagline{
+        padding: 40px 90px;
+    }
+
+    .redemption_program_tagline h2{
+        font-size: 18px;
+    }
+
+
+}
