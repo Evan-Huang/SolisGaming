@@ -273,6 +273,7 @@ table{
 	width: 100%;
 	background-color: #EF7102;
 	margin-bottom: 20px;
+	font-weight: 500;
 }
 
 .jobs_bg a{
@@ -387,21 +388,20 @@ table{
 	padding: 50px;
 	margin: 0 -15px;
 	background: #ffffff;
-	font-weight: bold;
-	letter-spacing:4px;
-	color:#EF7102;
 }
 
-.footer_title h1{
-	font-weight: bold;
-	letter-spacing:6px;
-	color:#EF7102;
+.footer_title h2{
+	font-weight: 500;
 	border-top: 3px solid;
 	padding-top: 50px;
 }
 
 .footer_content_right {
 	padding: 20px 50px;
+}
+
+.aboutsolis {
+	font-weight:500;
 }
 
 

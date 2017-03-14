@@ -58,7 +58,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_1.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>iPhone 7 plus 128GB</p>
                                             <p>Points</p><p class="pull-right">85,000</p>
@@ -67,75 +67,93 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_2.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
+                                            <p>iPhone 7 128GB</p>
+                                            <p>Points</p><p class="pull-right">69,000</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_3.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
+                                            <p>Hua Wei P9 32GB</p>
+                                            <p>Points</p><p class="pull-right">37,000</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_4.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
+                                            <p>Hua Wei Honor 6X 32GB</p>
+                                            <p>Points</p><p class="pull-right">17,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/redem_images_5.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>Galaxy C5 32GB</p>
                                             <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_6.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
+                                            <p>Galaxy S7 EDGE 32GB</p>
+                                            <p>Points</p><p class="pull-right">51,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/redem_images_7.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>Apple Macbook Air 13' 128GB</p>
+                                            <p>Points</p><p class="pull-right">75,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/redem_images_8.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>Apple Macbook Air 12' 256GB</p>
                                             <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="item_box">
-                                        <img style="height: 340px;" src="./images/card_face_1.png" class="img-responsive">
+                                        <img  src="./images/redem_images_9.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>iPhone 7 plus 128GB</p>
-                                            <p>Points</p><p class="pull-right">85,000</p>
+                                            <p>Apple iPad Pro 9.7' Wi-Fi 32GB</p>
+                                            <p>Points</p><p class="pull-right">49,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/redem_images_10.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>Apple iPad Mini 4 Wi-Fi 128GB</p>
+                                            <p>Points</p><p class="pull-right">42,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/redem_images_11.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>Apple Watch Series 2 Sport 42mm</p>
+                                            <p>Points</p><p class="pull-right">38,000</p>
                                         </div>
                                     </div>
                                 </div>

@@ -25,6 +25,10 @@
     padding: 65px 45px;
 }
 
+.redemption_program_tagline h2{
+    color: #ffce3d;
+}
+
 .redemption_program_content{
     padding: 5px;
     min-height: 390px;
@@ -79,6 +83,7 @@
 
 
 
+
 @media screen and (max-width:767px) {
     .redemption_program{
         height: 100px;
@@ -88,10 +93,6 @@
 
     }
 
-    .redemption_program_box p{
-        padding: 10px 0;
-
-    }
     .redemption_program_tagline{
         padding: 40px 90px;
     }
