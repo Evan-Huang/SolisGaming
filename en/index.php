@@ -40,7 +40,6 @@
           <ol class="carousel-indicators">
             <li data-target="#bs-carousel" data-slide-to="0"></li>
             <li data-target="#bs-carousel" data-slide-to="1"></li>
-            <li data-target="#bs-carousel" data-slide-to="2"></li>
           </ol>
 
           <!-- Wrapper for slides -->
@@ -59,13 +58,7 @@
                 <h1>Thrill Your Senses</h1>
               </div>
             </div>  
-            
-            <div class="item slides ">
-              <div class="slide-3"></div>
-              <div class="intro">
-                <h1>Thrill Your Senses</h1>
-              </div>
-            </div>                                  
+                                           
             
           </div>
 
@@ -86,6 +79,29 @@
        
       </div>
     </div>
+    <!-- Who we are -->
+    <div class="row who_bg" id="about">
+      <div class="col-lg-12">
+        <div class="who_text_box text-justify">
+          <h2 class="text-center">ABOUT SOLIS</h2>
+          <p><strong>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</strong></p>
+          <p><strong>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</strong></p>
+          <p><strong>Head quartered in Hong Kong, and with operating offices in Macau and Vietnam, SOLIS is currently undertaking major expansion plans into other parts of Asia.  Our expertise lies in the Operation and Management of Casinos; both Table Operations and Slot Operations.</strong></p>
+          <p><strong>The SOLIS Management team is continually building on its reputation for best in class Casino Management and Gaming Related Investment opportunities throughout Asia.  We are a young, forwarded thinking organization bringing new ideas, constantly challenging the status quo, and tirelessly looking for competitive edges in what is becoming a competitive market place.</strong></p>
+
+          <p>In Macau, the world’s largest and highly regulated Gaming Market, we operate more than 650 electronic gaming machines across 4 venues (3 currently under the SOLIS Brand).</p>
+          <p>Operating across 3 venues</p>
+          <ul class="text-left">
+            <li>Casa Real Casino – Since 2013 - 130 machines</li>
+            <li>Grandview Casino – Since 2013 - 150 machines</li>
+            <li>Landmark Pharaoh's Palace Casino– Since 2013 - 150 machines</li>
+            <li>Kam Pek Paradise Casino – Since 2009 – 195 Machines (Operation managed by SOLIS only)</li>
+          </ul>
+        </div>
+        
+      </div>
+    </div>
+    <!-- /Who we are -->    
     <div class="row orange_bg"> <img src="images/theme_images.png" alt="" class="img-responsive"> </div>
     <!-- /The Brand Story -->
     <!-- Our Loctions -->
@@ -94,7 +110,7 @@
         <h2 class="text-center">Our Loctions</h2>
       </div>
       <div class="col-sm-12">
-      	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs" width="100%" height="320"></iframe>
+      	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs&hl=uk" width="100%" height="320"></iframe>
       </div>
       <div class="col-md-4 local_place_bg"> 
        <div class="text-center local_img"><img src="images/location_1.jpg" alt="" class="img-responsive"></div>
@@ -199,7 +215,7 @@
 			</tr>
 						<tr>
 			<td style="padding-left: 6%">
-		 <h4 >EQUINO</h4>
+		 <h4 >EQUINOX</h4>
           <p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>	
 			</td>
 			<td align="center">
@@ -210,51 +226,6 @@
 			</table>
       </div>
     </div>
-
-    <!-- Who we are -->
-    <div class="row who_bg" id="about">
-      <div class="col-lg-12">
-        <div class="who_text_box text-justify">
-          <h2 class="text-center aboutsolis">ABOUT SOLIS</h2>
-          <p><strong>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</strong></p>
-          <p><strong>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</strong></p>
-          <p><strong>Head quartered in Hong Kong, and with operating offices in Macau and Vietnam, SOLIS is currently undertaking major expansion plans into other parts of Asia.  Our expertise lies in the Operation and Management of Casinos; both Table Operations and Slot Operations.</strong></p>
-          <p><strong>The SOLIS Management team is continually building on its reputation for best in class Casino Management and Gaming Related Investment opportunities throughout Asia.  We are a young, forwarded thinking organization bringing new ideas, constantly challenging the status quo, and tirelessly looking for competitive edges in what is becoming a competitive market place.</strong></p>
-
-          <p>In Macau, the world’s largest and highly regulated Gaming Market, we operate more than 650 electronic gaming machines across 4 venues (3 currently under the SOLIS Brand).</p>
-          <p>Operating across 3 venues</p>
-          <ul class="text-left">
-            <li>Casa Real Casino – Since 2013 - 130 machines</li>
-            <li>Grandview Casino – Since 2013 - 150 machines</li>
-            <li>Landmark Pharaoh's Palace Casino– Since 2013 - 150 machines</li>
-            <li>Kam Pek Paradise Casino – Since 2009 – 195 Machines (Operation managed by SOLIS only)</li>
-          </ul>
-        </div>
-        <div class="row who_silder_box" >
-          <div class="who_silder_text_box">
-            <h2>Solis Macau</h2>
-            <h3>Operating across 3 venues:</h3>
-          </div>
-          <div class="col-lg-10 col-lg-offset-1">
-            <ul class="vmcarousel-centered-infitine vmc-centered">
-              <li><img src="images/venues1.jpg" alt="" width="300">
-                <div class="caption"><strong>Casa Real Casino</strong><br>
-                  <i>Since 2013 - 120 machines</i></div>
-              </li>
-              <li><img src="images/venues2.jpg" alt="" width="300">
-                <div class="caption"><strong>Grandview Casino</strong><br>
-                  <i>Since 2013 - 156 machines</i></div>
-              </li>
-              <li><img src="images/venues3.jpg" alt="" width="300">
-                <div class="caption"><strong>Landmark Pharaoh's Palace Casino</strong><br>
-                  <i>Since 2013 - 156 machines</i></div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Who we are -->
     <!-- Job -->
     <div class="row jobs_bg text-center" id="jobs">
       <div class="col-lg-12">
@@ -272,13 +243,6 @@
   </div>
 </div>
 <footer>
-  <div class="container">
-    <div class="row" id="contactus">
-      <div class="col-lg-12 text-center">
-        <div class="footer_title"><h2>CONTACT US</h2></div>
-      </div>
-    </div>
-  </div>
     <!-- Footer -->
     <?php
         include_once 'footer.html';
