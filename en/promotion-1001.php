@@ -31,10 +31,10 @@
   <div class="container ">
     <div class="row">
       <div class="col-lg-12">
-        <div class="hero_banner promotion" style="background-image: url(images/promotion_banner.jpg)">
+        <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
-        	<h2>Promotions</h2>
-        	<p>To be inserted later and on an on-going basis</p>
+        	<h2>Promotions</h2>s
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
           </div>
        </div>
       </div>
@@ -44,7 +44,7 @@
         <div class="crumb">
           <a href="index.php">Home</a> >
           <a href="promotions.php">Promotions</a> >
-          <a href="#">Club soli F&B rewaards for Free</a>
+          <a href="#">Club SOLIS F&B rewaards for Free</a>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
 	</div>
   <div class="col-md-7">
 		<div class="promotion_detail">
-        <div class="promotion_title">Club soli F&B rewards for Free</div>
+        <div class="promotion_title">Club SOLIS F&B rewards for Free</div>
         <div class="promotion_content">
           <p>Club Solis members earn 500 points or above within One calendar date (00:00 – 23:59), can have $100 F&B voucher for FREE.</p>
           <p>Promotion Period: Start from now to 31st Dec, 2016</p>

@@ -48,14 +48,14 @@
             <div class="item slides active">
               <div class="slide-5"></div>
               <div class="intro">
-                <h1>Thrill Your Senses</h1>
+                <h1>THRILL YOUR SENSES</h1>
               </div>
             </div>
             
             <div class="item slides ">
               <div class="slide-4"></div>
               <div class="intro">
-                <h1>Thrill Your Senses</h1>
+                <h1>THRILL YOUR SENSES</h1>
               </div>
             </div>  
                                            
@@ -84,10 +84,10 @@
       <div class="col-lg-12">
         <div class="who_text_box text-justify">
           <h2 class="text-center">ABOUT SOLIS</h2>
-          <p><strong>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</strong></p>
-          <p><strong>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</strong></p>
-          <p><strong>Head quartered in Hong Kong, and with operating offices in Macau and Vietnam, SOLIS is currently undertaking major expansion plans into other parts of Asia.  Our expertise lies in the Operation and Management of Casinos; both Table Operations and Slot Operations.</strong></p>
-          <p><strong>The SOLIS Management team is continually building on its reputation for best in class Casino Management and Gaming Related Investment opportunities throughout Asia.  We are a young, forwarded thinking organization bringing new ideas, constantly challenging the status quo, and tirelessly looking for competitive edges in what is becoming a competitive market place.</strong></p>
+          <p>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</p>
+          <p>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</p>
+          <p>Head quartered in Hong Kong, and with operating offices in Macau and Vietnam, SOLIS is currently undertaking major expansion plans into other parts of Asia.  Our expertise lies in the Operation and Management of Casinos; both Table Operations and Slot Operations.</p>
+          <p>The SOLIS Management team is continually building on its reputation for best in class Casino Management and Gaming Related Investment opportunities throughout Asia.  We are a young, forwarded thinking organization bringing new ideas, constantly challenging the status quo, and tirelessly looking for competitive edges in what is becoming a competitive market place.</p>
 
           <p>In Macau, the world’s largest and highly regulated Gaming Market, we operate more than 650 electronic gaming machines across 4 venues (3 currently under the SOLIS Brand).</p>
           <p>Operating across 3 venues</p>
@@ -107,7 +107,7 @@
     <!-- Our Loctions -->
     <div class="row local_bg" id="location">
       <div class="col-lg-12 black_bg">
-        <h2 class="text-center">Our Loctions</h2>
+        <h2 class="text-center">Our  LOCATIONS</h2>
       </div>
       <div class="col-sm-12">
       	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs&hl=uk" width="100%" height="320"></iframe>
@@ -177,7 +177,7 @@
         <a href="benefits.php">
         <div class="club_text_box">
           <h3>Benefits of Membership</h3>
-          <p>Discover the benefits of being a Club Solis member.</p>
+          <p>Discover the benefits of being a Club SOLIS member.</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>
@@ -216,7 +216,7 @@
 						<tr>
 			<td style="padding-left: 6%">
 		 <h4 >EQUINOX</h4>
-          <p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>	
+          <p>Exclusively available to invited guests only. Prestige Personalized Customer Service and facilities offered.</p>	
 			</td>
 			<td align="center">
 				<img id="card4" src="images/card_face_4.png" alt="" class="" style="padding: 0 10px;">	
@@ -236,7 +236,7 @@
       <div class="col-md-6 text-justify">
         <p><strong>Become Part of the SOLIS Family</strong></p>
         <p>At SOLIS, you will experience much more than just a career in a fun, friendly and exciting environment. You’ll achieve your dream career that offers exceptional opportunities for professional advancement and personal accomplishment. We offer excellent benefits, insurance and comprehensive career advancement program.</p>
-        <p>For information on Career Opportunities to apply a specfic position, please EMAIL YOUR RESUME to <a href="mailto:hra@solismacau.com">hra@solismacau.com</a></p>
+        <p>For information on Career Opportunities to apply a specific position, please EMAIL YOUR RESUME to <a href="mailto:hra@solismacau.com">hra@solismacau.com</a></p>
       </div>
     </div>
     <!-- /Job -->

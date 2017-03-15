@@ -33,7 +33,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="hero_banner redemption_program" style="background-image: url(images/promotion_banner_none.jpg)">
+					<div class="hero_banner redemption_program" style="background-image: url(images/redemption_banner.jpg)">
 						<div class="redemption_program_tagline">
 							<h2>Redemption Program</h2>
 						</div>

@@ -31,7 +31,7 @@
   <div class="container ">
     <div class="row">
       <div class="col-lg-12">
-        <div class="hero_banner contactus" style="background-image: url(images/promotion_banner.jpg)">
+        <div class="hero_banner contactus" style="background-image: url('images/contact us_banner.jpg')">
         <div class="contactus_tagline">
           <h2>CONTACT US</h2>
         </div>

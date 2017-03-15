@@ -31,10 +31,10 @@
   <div class="container ">
     <div class="row">
       <div class="col-lg-12">
-        <div class="hero_banner promotion" style="background-image: url(images/promotion_banner.jpg)">
+        <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>Promotions</h2>
-        	<p>To be inserted later and on an on-going basis</p>
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
           </div>
        </div>
       </div>
@@ -50,19 +50,24 @@
     <!-- The Brand Story -->
 <div class="row">
 	<div class="col-md-4">
-		<div class="promotion_box"><a href="promotion-1001.php">
+		<div class="promotion_box">
+		<a href="promotion-1001.php">
 			<div class="promotion_banner" style="background-image: url('images/promo_500.png')">
 				<img src="images/promo_frame.png" alt="" class="img-responsive"></div>
-			<div class="promotion_title">Club soli F&B rewards for Free</div>
-			<div class="promotion_button">DETAILS </div></a>
+			<div class="promotion_title">Club SOLIS F&B rewards for Free</div>
+			<div class="promotion_button">DETAILS </div>
+		</a>
 		</div>
 	</div>
 	<div class="col-md-4">
 		<div class="promotion_box">
+		<a href="promotion-1002.php">
 			<div class="promotion_banner" style="background-image: url('images/promo_banner_2.png')">
-				<a href="promotion-1002.php"><img src="images/promo_frame.png" alt="" class="img-responsive"></a></div>
-			<div class="promotion_title">Join Club Solis, Rewards $100 E-bonus</div>
-			<div class="promotion_button"><a href="promotion-1002.php">DETAILS </a>	</div>
+				<img src="images/promo_frame.png" alt="" class="img-responsive">
+				</div>
+			<div class="promotion_title">Join Club SOLIS, Rewards $100 E-bonus</div>
+			<div class="promotion_button">DETAILS</div>
+		</a>	
 		</div>
 	</div>
 

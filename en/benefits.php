@@ -33,7 +33,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-lg-12">
-					<div class="hero_banner benefit" style="background-image: url(images/promotion_banner.jpg)">
+					<div class="hero_banner benefit" style="background-image: url('images/benefits_banner.jpg')">
 						<div class="benefit_tagline">
 							<h2>BENEFITS OF MEMBERSHIP</h2>
 							<p>Discover the benefits of being a Club Solis member.</p>

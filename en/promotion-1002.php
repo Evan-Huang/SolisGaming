@@ -31,10 +31,10 @@
   <div class="container ">
     <div class="row">
       <div class="col-lg-12">
-        <div class="hero_banner promotion" style="background-image: url(images/promotion_banner.jpg)">
+        <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>Promotions</h2>
-        	<p>To be inserted later and on an on-going basis</p>
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
           </div>
        </div>
       </div>
@@ -44,7 +44,7 @@
         <div class="crumb">
           <a href="index.php">Home</a> >
           <a href="promotions.php">Promotions</a> >
-          <a href="#">Join Club Solis, Rewards $100 E-bonus</a>
+          <a href="#">Join Club SOLIS, Rewards $100 E-bonus</a>
         </div>
       </div>
     </div>
@@ -58,7 +58,7 @@
 	</div>
   <div class="col-md-7">
 		<div class="promotion_detail">
-        <div class="promotion_title">Join Club Solis, Rewards $100 E-bonus</div>
+        <div class="promotion_title">Join Club <a href="#">SOLIS</a>, Rewards $100 E-bonus</div>
         <div class="promotion_content">
           <p>Join us to be New Club Solis member and earn 288 points or above on the first two days (on the register day from 00:00 to the following day 23:59), can have $100 E-bonus for FREE.</p>
           <p>Promotion Period: Start from now to 28th Feb, 2017</p>
