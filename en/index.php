@@ -274,9 +274,16 @@
     });
 
 $(".button").click(function() {
-    $('html, body').animate({
-        scrollTop: $("#"+$(this).attr( "rel" )).offset().top-100
-    }, 1000);
+    if ( $("#wrap").hasClass('fix-menu')) {
+        $('html, body').animate({
+            scrollTop: $("#"+$(this).attr( "rel" )).offset().top-80
+        }, 1000);
+    }else {
+        $('html, body').animate({
+            scrollTop: $("#"+$(this).attr( "rel" )).offset().top-150
+        }, 1000);
+    }
+
 	$('#bs-navbar-collapse-1').removeClass('in');
 	$(this.parentNode).parent().children('li').removeClass('active');
 	$(this.parentNode).addClass('active');
