@@ -372,6 +372,7 @@ table{
 	padding: 0 18px;
 	display:inline;
 	height:25px;
+	cursor: pointer;
 }
 
 .follow-imgs img:last-child{
