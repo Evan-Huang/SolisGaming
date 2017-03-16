@@ -69,12 +69,20 @@
 padding-top: 50px;
 }
 
+.points_table tr td:nth-child(1) {
+	width: 40%;
+}
+
+.points_table tr td:nth-child(2) {
+	width: 15%;
+}
+
 .points_table tr td:nth-child(2) p {
-    padding: 0 30px;
+    /*padding: 0 30px;*/
 }
 
 .points_table tr td:nth-child(3) p {
-    padding: 0 30px;
+    /*padding: 0 30px;*/
 }
 
 .rewardsandoffers {

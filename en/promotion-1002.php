@@ -140,6 +140,8 @@
         $('.li_bt_home').removeClass('active');
         $("#bs-navbar-collapse-1 li[class='dropdown']").addClass('active');
 
+        $( "#bs-navbar-collapse-1 li a[href='promotions.php']" ).parent().addClass( 'active' );
+
     });
     //    返回上一頁面
     window.document.onkeydown = disableRefresh;

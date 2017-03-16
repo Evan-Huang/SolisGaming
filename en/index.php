@@ -290,6 +290,50 @@ $(".button").click(function() {
 
 
 });
+
+    $( document ).ready( function () {
+        if (window.location.hash == '#club'){
+            $('html, body').animate({
+                scrollTop: $("#club").offset().top-170
+            }, 1000);
+
+            $( '.li_bt_home' ).removeClass( 'active' );
+            $( "#bs-navbar-collapse-1 li[class='dropdown']" ).addClass( 'active' );
+
+            $( "#bs-navbar-collapse-1 li a[rel='club']" ).parent().addClass( 'active' );
+
+        }
+
+        if (window.location.hash == '#cards'){
+            $('html, body').animate({
+                scrollTop: $("#cards").offset().top-170
+        }, 1000);
+
+            $( '.li_bt_home' ).removeClass( 'active' );
+            $( "#bs-navbar-collapse-1 li[class='dropdown']" ).addClass( 'active' );
+
+            $( "#bs-navbar-collapse-1 li a[rel='cards']" ).parent().addClass( 'active' );
+        }
+
+        if (window.location.hash == '#location'){
+            $('html, body').animate({
+                scrollTop: $("#location").offset().top-170
+            }, 1000);
+
+            $( '.li_bt_home' ).removeClass( 'active' );
+            $( "#bs-navbar-collapse-1 li a[rel='location']" ).parent().addClass( 'active' );
+        }
+
+        if (window.location.hash == '#who'){
+            $('html, body').animate({
+                scrollTop: $("#who").offset().top-170
+            }, 1000);
+
+            $( '.li_bt_home' ).removeClass( 'active' );
+            $( "#bs-navbar-collapse-1 li a[rel='who']" ).parent().addClass( 'active' );
+        }
+
+    });
 	
 	  // ADD SLIDEDOWN ANIMATION TO DROPDOWN //
   $('.dropdown').on('show.bs.dropdown', function(e){

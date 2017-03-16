@@ -67,6 +67,10 @@
 	background: #b39e6a;
 }
 
+.promotion_content_row_col p:last-child {
+	min-height: 200px;
+}
+
 .promotion_button{
 	width: 100%;
 }
@@ -90,4 +94,8 @@
 		padding-left: 15px;
 		padding-top:5px;
 	}
+	.promotion_content_row_col p:last-child {
+		min-height: 0;
+	}
+
 }

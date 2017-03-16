@@ -115,7 +115,7 @@
 								<div class="col-sm-3 text-center visible-xs-block"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style=""><span>EQUINOX</span>
 								</div>
 								<div class="col-sm-3">
-									<p>Exlusively avaialble to invited guests only. Prestige Personalized Customer Sevice and facilities offered.</p>
+									<p>Exclusively available to invited guests only. Prestige Personalized Customer Service and facilities offered.</p>
 								</div>
 
 								<div class="col-sm-3 text-center visible-xs-block"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style=""><span>SOLSTICE</span>
@@ -177,14 +177,14 @@
 													<td>5%</td>
 												</tr>
 												<tr>
-													<td>Restaurant(Landmark-Varanda,King of kings,Petrus)</td>
+													<td>Restaurant (Landmark-Varanda,King of kings,Petrus)</td>
 													<td>15%</td>
 													<td>15%</td>
 													<td>10%</td>
 													<td>10%</td>
 												</tr>
 												<tr>
-													<td>Spa(Landmark)</td>
+													<td>Spa (Landmark)</td>
 													<td>15%</td>
 													<td>15%</td>
 													<td>10%</td>
@@ -204,7 +204,7 @@
 											<thead>
 												<tr>
 													<th>
-														Redemption(Not application to discounts)
+														Redemption (Not application to discounts)
 													</th>
 													<th>
 														EQUINOX
@@ -222,7 +222,7 @@
 											</thead>
 											<tbody>
 												<tr>
-													<td>Dinging,spa,Accommodation</td>
+													<td>Dinging, spa, Accommodation</td>
 													<td>√</td>
 													<td>√</td>
 													<td>√</td>
@@ -236,7 +236,7 @@
 													<td>√</td>
 												</tr>
 												<tr>
-													<td>Solis Retail Redemption Program</td>
+													<td>SOLIS Retail Redemption Program</td>
 													<td>√</td>
 													<td>√</td>
 													<td>√</td>
@@ -312,6 +312,8 @@
 
 			$( '.li_bt_home' ).removeClass( 'active' );
 			$( "#bs-navbar-collapse-1 li[class='dropdown']" ).addClass( 'active' );
+
+			$( "#bs-navbar-collapse-1 li a[href='benefits.php']" ).parent().addClass( 'active' );
 
 		} );
 
