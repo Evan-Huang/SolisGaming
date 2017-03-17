@@ -46,7 +46,8 @@
 					<div class="col-lg-12 hidden-xs">
 						<div class="crumb">
 							<a href="index.php">Home</a> >
-							<a href="#">Benefits of Membership</a>
+                            <label style="display: inline;font-weight: normal;">Club SOLIS</label> >
+							<label style="display: inline;font-weight: normal;">Benefits of Membership</label>
 						</div>
 					</div>
 
@@ -54,16 +55,6 @@
 						<div class="benefit_content">
 							<p class="welcome">Welcome to the world of Club SOLIS, one of the most preferred membership program offers the exciting experience, the endless rewards, exclusive privileges and personalized customer service.</p>
 							<p class="action">Action now to enter the globe where only the best experiences and wide array of amazing rewards await you!</p>
-
-							<h4 class="membership">CLUB SOLIS MEMBERSHIP</h4>
-							<div class="row">
-								<div class="col-md-6 membership_left">
-									<p>In Club SOLIS, its 4 tiers of prestige memberships; EQUINOX, SOLISTICE, CELESTIAL and STAR, offers an extensive array of world class privileges and exciting offers ranging from hotel accommodation & spa, fine dining, complimentary transportation, the latest electronic gadgets, luxury shopping voucher and much much more...</p>
-								</div>
-								<div class="col-md-6 membership_right">
-									<p>With a linked membership account, our prestige guests can earn the rewarding points in any of our slot lounges. Club Solis is focused on delivering convenience and accelerated rewards points to redeem the precious gifts you especially desire.</p>
-								</div>
-							</div>
 
 							<h4 class="points">HOW TO EARN CLUB SOLIS POINTS</h4>
 							<div class="table-responsive">

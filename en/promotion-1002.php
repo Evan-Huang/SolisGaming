@@ -40,68 +40,68 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-12">
-        <div class="crumb">
-          <a href="index.php">Home</a> >
-          <a href="promotions.php">Promotions</a> >
-          <a href="#">Join Club SOLIS, Rewards $100 E-bonus</a>
+        <div class="promotions_content">
+            <div class="col-lg-12 hidden-xs">
+                <div class="crumb">
+                    <a href="index.php">Home</a> >
+                    <label style="display: inline;font-weight: normal;">Club SOLIS</label> >
+                    <a href="promotions.php" >Promotions</a> >
+                    <label style="display: inline;font-weight: normal;">Join Club SOLIS, Rewards $100 E-bonus</label>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="promotion_box promotion_detail">
+                    <div class="promotion_banner" style="background-image: url('images/promo_banner_2.png')">
+                        <img src="images/promo_frame.png" alt="" class="img-responsive"></div>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <div class="promotion_detail">
+                    <div class="promotion_title">Join Club <a href="#">SOLIS</a>, Rewards $100 E-bonus</div>
+                    <div class="promotion_content">
+                        <p>Join us to be New Club Solis member and earn 288 points or above on the first two days (on the register day from 00:00 to the following day 23:59), can have $100 E-bonus for FREE.</p>
+                        <p>Promotion Period: Start from now to 28th Feb, 2017</p>
+                        <div class="row">
+                            <div class="col-md-4 promotion_content_row_col">
+                                <p style="padding: 5px;" class="text-center">How to Participate</p>
+                                <p style="padding: 15px;" class="text-left">New Sign up and earn 288 points or above on the register day from 00:00 to the following day 23:59 at the register site</p>
+                            </div>
+                            <div class="col-md-2 promotion_content_row_col">
+                                <p style="padding: 5px 10px;" class="text-center">Rewards</p>
+                                <p style="padding: 55px 5px;" class="text-center">$100 E-bonus</p>
+                            </div>
+                            <div class="col-md-3 promotion_content_row_col">
+                                <p style="padding: 5px;" class="text-center">Collected Period</p>
+                                <p style="padding: 35px 30px;" class="text-left">the following register day before  23:59</p>
+                            </div>
+                            <div class="col-md-3 promotion_content_row_col">
+                                <p style="padding: 5px 0;" class="text-center">Collected Location</p>
+                                <p style="padding: 35px 20px;" class="text-left">Collected on the same register site </p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="promotion_detail" style="line-height: 30px;padding: 20px 0">
+                    <p>Terms and Conditions：</p>
+                    <ol>
+                        <li>New Club Solis member: no record in Slot system.</li>
+                        <li>All qualify new members can only participate “Join Club Solis, Rewards $100 E-bonus” promotion for one time.</li>
+                        <li>Qualify new members need to collected their new sign up rewards before the following register day 23:59 at the register site.</li>
+                        <li>Points will not be deducted.</li>
+                        <li>All New Sign Up rewards need to collect at one time and used up on one machine.</li>
+                        <li>E-bonus only apply on card members.</li>
+                        <li>Solis management shall be final.</li>
+                        <li>Club Solis Membership Terms and Conditions.</li>
+                    </ol>
+                </div>
+            </div>
         </div>
-      </div>
+
     </div>
     <!-- The Brand Story -->
-<div class="row">
-	<div class="col-md-5">
-		<div class="promotion_box promotion_detail">
-			<div class="promotion_banner" style="background-image: url('images/promo_banner_2.png')">
-				<img src="images/promo_frame.png" alt="" class="img-responsive"></div>
-		</div>
-	</div>
-  <div class="col-md-7">
-		<div class="promotion_detail">
-        <div class="promotion_title">Join Club <a href="#">SOLIS</a>, Rewards $100 E-bonus</div>
-        <div class="promotion_content">
-          <p>Join us to be New Club Solis member and earn 288 points or above on the first two days (on the register day from 00:00 to the following day 23:59), can have $100 E-bonus for FREE.</p>
-          <p>Promotion Period: Start from now to 28th Feb, 2017</p>
-          <div class="row">
-            <div class="col-md-4 promotion_content_row_col">
-                <p style="padding: 5px;" class="text-center">How to Participate</p>
-                <p style="padding: 15px;" class="text-left">New Sign up and earn 288 points or above on the register day from 00:00 to the following day 23:59 at the register site</p>
-            </div>
-            <div class="col-md-2 promotion_content_row_col">
-                <p style="padding: 5px 10px;" class="text-center">Rewards</p>
-                <p style="padding: 55px 5px;" class="text-center">$100 E-bonus</p>
-            </div>
-            <div class="col-md-3 promotion_content_row_col">
-                <p style="padding: 5px;" class="text-center">Collected Period</p>
-                <p style="padding: 35px 30px;" class="text-left">the following register day before  23:59</p>
-            </div>
-            <div class="col-md-3 promotion_content_row_col">
-                <p style="padding: 5px;" class="text-center">Collected Location</p>
-                <p style="padding: 35px 30px;" class="text-left">Collected on the same register site </p>
-            </div>
-          </div>
-
-        </div>
-		</div>
-	</div>
-    <div class="col-md-12">
-      <div class="promotion_detail" style="line-height: 30px;padding: 20px 0">
-        <p>Terms and Conditions：</p>
-        <ol>
-          <li>New Club Solis member: no record in Slot system.</li>
-          <li>All qualify new members can only participate “Join Club Solis, Rewards $100 E-bonus” promotion for one time.</li>
-          <li>Qualify new members need to collected their new sign up rewards before the following register day 23:59 at the register site.</li>
-          <li>Points will not be deducted.</li>
-          <li>All New Sign Up rewards need to collect at one time and used up on one machine.</li>
-          <li>E-bonus only apply on card members.</li>
-          <li>Solis management shall be final.</li>
-          <li>Club Solis Membership Terms and Conditions.</li>
-        </ol>
-      </div>
-    </div>
-
-</div>
-    <!-- /Job -->
   </div>
 </div>
 <footer>

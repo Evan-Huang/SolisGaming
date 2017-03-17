@@ -43,8 +43,8 @@
       <div class="contact_box">
       <div class="col-lg-12">
         <div class="crumb">
-          <a href="index.html">Home</a> >
-          <a href="#">Contact Us</a>
+          <a href="index.php">Home</a> >
+          <label style="display: inline;font-weight: normal;">Contact Us</label>
         </div>
       </div>
       <!--<div class="col-lg-12 ">

@@ -45,13 +45,13 @@
 					<div class="col-lg-12 hidden-xs">
 						<div class="crumb">
 							<a href="index.php">Home</a> >
-							<a href="#">Redemption Program</a>
+                            <label style="display: inline;font-weight: normal;">Club SOLIS</label> >
+							<label style="display: inline;font-weight: normal;">Redemption Program</label>
 						</div>
 					</div>
 
 					<div class="col-lg-12">
 						<div class="redemption_program_content">
-							<p class="staytuned">Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
 
 							<h4 class="redemptionitem">REDEMPTION ITEM</h4>
 
@@ -168,7 +168,7 @@
                                     <li>Players can apply to our Club SOLIS members at SOLIS Grandview 1st Floor, SOLIS Casa Real 1st & 2nd Floor, and SOLIS Landmark 3rd Floor, on each venue, each Club SOLIS member will be issued with one membership card with one membership number.</li>
                                     <li>No membership fee is required.</li>
                                     <li>All Club SOLIS members’ belonging, like membership, account, points and discount are not transferable.</li>
-                                    <li>Club SOLIS members are required to present their Club SOLIS membership cards and identity (Such as passport, travel documents, ID card or residence card) upon any service counter, restaurant and business partner while doing some authentication; such as reprint membership card, points redemption, prize awards, using shopping vouchers, participate promotions and events, apply special discount, etc. </li>
+                                    <li>Club SOLIS members are required to present their Club SOLIS membership cards and identity (Such as passport, travel documents, ID card or residence card) upon any service counter, restaurant and business partner while doing some authentication; such as reprint membership card, points redemption, prize awards, using shopping vouchers, participate promotions and events, apply special discount, etc.</li>
                                     <li>Club SOLIS members can earn points at SOLIS Casa Real, SOLIS Grandview and SOLIS Landmark.  Members can have point redemption at any SOLIS venues.</li>
                                     <li>When there is not gaming record within the last 12 months, all rewards will be forfeited.</li>
                                     <li>Solstice and Celestial membership are valid for one year.  Every end of the year, the membership holders will be assessed.  If not reach that membership requirement, will be offer another level of membership to the players.</li>

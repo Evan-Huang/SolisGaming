@@ -333,6 +333,15 @@ $(".button").click(function() {
             $( "#bs-navbar-collapse-1 li a[rel='who']" ).parent().addClass( 'active' );
         }
 
+        if (window.location.hash == '#jobs'){
+            $('html, body').animate({
+                scrollTop: $("#jobs").offset().top-170
+            }, 1000);
+
+            $( '.li_bt_home' ).removeClass( 'active' );
+            $( "#bs-navbar-collapse-1 li a[rel='jobs']" ).parent().addClass( 'active' );
+        }
+
     });
 	
 	  // ADD SLIDEDOWN ANIMATION TO DROPDOWN //

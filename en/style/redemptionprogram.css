@@ -3,6 +3,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 18px;
+    color: #ffffff;
 }
 
 
@@ -94,7 +95,7 @@
     }
 
     .redemption_program_tagline{
-        padding: 40px 90px;
+        padding: 40px 20px;
     }
 
     .redemption_program_tagline h2{
