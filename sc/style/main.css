@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
 body {
 	background-color: #000000;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif; 
+	font-size: 18px;
 }
 
 h2,h4{
@@ -15,7 +16,11 @@ h3, h1{
 
 }
 
-
+.who_text_p p{
+    text-align: justify;
+    text-justify: inter-word;
+	
+}
 .top_lang_bar {
 	background-color: #1a1919;
 	padding: 5px;
@@ -30,6 +35,20 @@ a:hover {
 .navbar-collapse a {
 	text-transform: uppercase;
 }
+
+
+	.navbar-nav .open .dropdown-menu {
+    background-color: #333333;
+		right:-41px;
+}
+	 .navbar-nav .open .dropdown-menu>li>a{
+    color: #ffffff;
+}
+	 .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: #666666;
+		 background-color: transparent;
+}
+
 .white_bg{
 	background-color: #ffffff;
 	background-image: url(../images/bg.png);
@@ -58,6 +77,7 @@ a:hover {
 
 .local_bg{
 	background-image: url('../images/local_bg.png');
+	background-color: rgba(0,0,0,0.3);
 	background-position: top center;
 	background-size: cover;
 }
@@ -73,9 +93,14 @@ a:hover {
 	min-height: 290px;
 }
 
+.local_img{
+	padding: 0 17px;
+color: #000000;
+}
+
 .local_desc{
-	padding: 30px 80px;
-color: #ffffff;
+	padding: 10px 50px;
+color: #000000;
 }
 
 .black_bg{
@@ -170,10 +195,21 @@ height: 100%;
 width: 100%
 }
 
+table{
+	color: #ffffff;
+}
+
+.table>tbody>tr>td {
+    border: none;
+}
+
 .club_title{
 	color: #ffce3d; padding-left: 65px;
 }
 
+.club_title span{
+	 color: #ffffff;
+}
 
 .club_text_box{
 	position: absolute;
@@ -258,10 +294,14 @@ width: 100%
 
 .footer_content{
 	text-align: left;
-	min-width: 200px;
-	display: inline-block;
 	color: #cccccc;
 }
+
+.footer_content h4{
+	letter-spacing: 6px;
+
+}
+
 
 .footer_buttom{
 	background-color:  #1A1919;
@@ -272,6 +312,99 @@ width: 100%
 		padding-bottom: 20px;
 	padding-top: 20px;
 }
+
+.footer_content_box {
+	padding: 20px 0;
+}
+
+.footer_content_cards {
+	padding-top: 50px;
+	margin-left: -30px;
+	margin-right: -30px;
+}
+
+.footer_content_box input{
+	background-color:#555;
+	border-color:#555
+}
+
+.footer_content_box button{
+	background-color:#EF7102;
+	border-color:#EF7102;
+}
+
+.footer_content_box textarea{
+	background-color:#555;
+	border-color:#555
+}
+
+.footer_content_center {
+	/*font-weight: normal;*/
+}
+
+.footer_content_center div {
+	padding: 20px 20px;
+}
+
+.footer_content_center h4 {
+	font-weight: normal;
+}
+
+.footer_content_center h4:first-child {
+	letter-spacing:4px;
+}
+
+.footer_content_center h4:nth-child(2) {
+	letter-spacing:2px;
+	color: #ffffff;
+}
+
+.footer_content_center h4:last-child {
+	letter-spacing:1px;
+	color: #ffffff;
+}
+
+.footer_content_center img {
+	padding: 50px 0;
+}
+
+.follow-imgs img{
+	padding: 0 18px;
+	display:inline;
+	height:25px;
+	cursor: pointer;
+}
+
+.follow-imgs img:last-child{
+	display:inline;height:160px;margin: 20px 0;padding: 0;border: 5px solid #777;
+}
+
+.footer_bottom p{
+	padding-right: 180px;
+	color: #EF7102;
+}
+
+.footer_title {
+	padding: 50px;
+	margin: 0 -15px;
+
+	font-weight: bold;
+	letter-spacing:4px;
+	color:#EF7102;
+}
+
+.footer_title h1{
+	font-weight: bold;
+	letter-spacing:6px;
+	color:#EF7102;
+	border-top: 3px solid;
+	padding-top: 50px;
+}
+
+.footer_content_right {
+	padding: 20px 50px;
+}
+
 
 @media screen and (max-width:1200px){
 	.navbar-inverse .navbar-nav>li>a {
@@ -286,8 +419,21 @@ width: 100%
 	
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:982px) {
 	
+	li.li_bt_home{
+		display: none;
+	}
+	.footer_content_box{
+		position: relative;
+	}
+	.footer_content{
+		width: 100%;
+		text-align: center;
+	}
+}
+
+@media screen and (max-width:767px) {
 	
 	.navbar-inverse.fix-menu .navbar-brand img{
 	
@@ -298,6 +444,18 @@ width: 100%
 		height: 70px;
 	}
 	
+	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #ffffff;
+}
+
+	.navbar-nav .open .dropdown-menu {
+    background-color: #333333;
+}
+
+		.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover{
+    color: #666666;
+}
+
 	
 
 div.lang_box {
@@ -420,8 +578,36 @@ div.lang_box {
 	text-align: center;
 	min-width: 100%;
 	display: inline-block;
-		padding-bottom: 20px;
+	padding-bottom: 20px;
 }
+	.footer_content_center {
+		text-align: center;
+	}
 
+	.footer_content_right {
+		text-align: center;
+	}
+
+	.footer_bottom p{
+		padding-right: 0px;
+	}
+
+	.footer_content_box {
+		padding: 20px 30px;
+		width: 100%;
+		background: #1a1919;
+		position: relative;
+		top: 0px;
+	}
+
+	.footer_content h4{
+		letter-spacing: 4px;
+
+	}
+
+	.footer_content_cards {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
 	
 }

@@ -1,0 +1,127 @@
+.contact_content {
+	padding: 50px;
+	background-color: #1a1919;
+}
+
+.bg_image {
+	background-image: url(../images/club_bg.png);
+	background-position: top center;
+	background-size: cover;
+}
+
+.title {
+	color: #FF5722;
+}
+
+.contactus {
+	height: 220px;
+}
+
+.contactus_tagline {
+	padding-left: 40px;
+	padding: 40px;
+}
+
+.contactus h2 {
+	color: #ffce3d;
+	margin-bottom: 0;
+}
+
+.crumb {
+    padding: 20px 0;
+	font-size: 18px;
+}
+
+label {
+	color: #ffffff;
+	font-weight: normal;
+}
+
+.contact_content input {
+	background-color: #484747;
+	border-color: #484747;
+}
+
+.form-group textarea {
+	background-color: #484747;
+	border-color: #484747;
+}
+
+.contact_content button {
+	color: #ffffff;
+	background-color: #FF5722;
+	border: none;
+	font-weight: normal;
+	letter-spacing: 2px;
+}
+
+.contact_box {
+    padding: 20px 30px;
+    color: #ccc;
+}
+
+.contact_box_intro {
+    padding: 30px 0;
+    border-top: 1px solid #ccc;
+    line-height: 30px;
+	font-size: 20px;
+}
+
+.letter_4 {
+    letter-spacing: 4px;
+}
+
+.solismacau {
+	color: #cccccc;
+    padding-top: 20px;
+}
+
+.solismacau_content {
+
+}
+
+.solismacau_content div h4{
+	color: #ccc;
+}
+
+.solismacau_content div h4:first-child{
+	padding-top: 30px;
+}
+
+.solismacau_content div h4:last-child{
+	font-weight: normal;
+	padding: 40px 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.solisoffice {
+	padding: 100px 30px;
+	color: #ccc;
+	background: rgba(0,0,0,.5);
+}
+
+.office_content {
+	padding: 30px 0;
+	font-size: 16px;
+}
+
+.office_hotline {
+	font-size: 16px;
+}
+
+.office_email {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #ccc;
+	font-size: 16px;
+}
+
+@media screen and (max-width:767px){
+	.contact_content {
+		padding: 10px;
+		margin: 10px;
+	}
+
+	.contact_content input {
+		width: 100%;
+	}
+}

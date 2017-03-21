@@ -160,7 +160,7 @@
 
                             </div>
 
-                            <h4 class="terms">TERMS AND DONDITIONS</h4>
+                            <h4 class="terms">TERMS AND CONDITIONS</h4>
 
                             <div class="terms_list">
                                 <ol>

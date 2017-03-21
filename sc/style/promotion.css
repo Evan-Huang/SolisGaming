@@ -43,6 +43,10 @@
 	padding: 5px;
 }
 
+.promotions_content {
+	padding: 30px;
+}
+
 .promotion_detail{
 	margin: 0;
 }
@@ -67,6 +71,10 @@
 	background: #b39e6a;
 }
 
+.promotion_content_row_col p:last-child {
+	min-height: 200px;
+}
+
 .promotion_button{
 	width: 100%;
 }
@@ -85,9 +93,21 @@
 	.promotion{
 			height: 100px;
 	}
+
+	.promotion_tagline h2{
+			font-size: 16px;
+	}
+
+	.promotion_tagline p{
+			font-size: 12px;
+	}
 	.promotions .promotion .promotion_tagline{
 
 		padding-left: 15px;
 		padding-top:5px;
 	}
+	.promotion_content_row_col p:last-child {
+		min-height: 0;
+	}
+
 }

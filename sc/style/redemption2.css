@@ -1,0 +1,355 @@
+
+body {
+    background: #ffffff;
+}
+
+h4 {
+    color: #000000;
+}
+
+h5 {
+    color: #EB7220;
+}
+
+h6 {
+    color: #ccc;
+}
+
+p {
+    color: #ccc;
+    font-size: 12px;
+}
+
+.list_space {
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #ffffff;
+}
+
+
+.luxury_top {
+    background-color: #ffffff;
+}
+
+.luxury_center {
+    background-color: #EB7220;
+}
+
+.luxury_cn {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #EB7220;
+}
+
+.item_bottom {
+    padding-top: 30px;
+}
+
+.technology_item1 {
+    padding: 0px;
+}
+
+.technology_item1 h6{
+    margin: 0px;
+}
+
+.technology_item1_1 {
+    background-image: url('../images/F&B Coupon Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item1_1 p {
+    padding-top: 145px;
+    margin-bottom: 0px;
+}
+
+.technology_item1_2 {
+    background: red url('../images/Chow Tai Fook Gift Voucher.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item1_2 p {
+    padding-top: 47px;
+    margin-bottom: 0px;
+}
+
+.technology_item2 {
+    padding: 0px;
+}
+
+.technology_item2 h6{
+    margin: 0px;
+}
+
+.technology_item2_1 {
+    width: 50%;
+    background-image: url('../images/Packnshop Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item2_1 p {
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+.technology_item2_2 {
+    width: 50%;
+    background-color: rgb(28,76,126);
+    background-image: url('../images/Royal Supermarker Voucher100.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item2_2 p {
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
+.technology_item2_3 {
+    clear: both;
+    background-color: rgb(64,44,14);
+    background-image: url('../images/New Yaohan Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item2_3 p {
+    padding-top: 145px;
+    margin-bottom: 0px;
+}
+
+.technology_item3 {
+    padding: 0px;
+}
+
+.technology_item3 h6{
+    margin: 0px;
+}
+
+.technology_item3_1 {
+    background-image: url('../images/Landmark - Elite Room.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item3_1 p {
+    padding-top: 115px;
+    margin-bottom: 0px;
+}
+
+.technology_item3_2 {
+    background-image: url('../images/Grandview - Elite Room.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item3_2 p {
+    padding-top: 113px;
+    margin-bottom: 0px;
+}
+
+.technology_item4 {
+    padding: 0px;
+
+}
+
+.technology_item4 h6{
+    margin: 0px;
+}
+
+.technology_item4_1 {
+    background-image: url('../images/Casa Real - Elite Room_2.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item4_1 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_2 {
+    background-image: url('../images/Landmark - Elite Room_2.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item4_2 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_3 {
+    background-image: url('../images/Cotai Water Jet.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item4_3 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item4_4 {
+    background-image: url('../images/Turbojet  MAC.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item4_4 p {
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.technology_item5 {
+    padding: 0px;
+}
+
+.technology_item5 h6{
+    margin: 0px;
+}
+
+.technology_item5_1 {
+    background-image: url('../images/Dyson V8 Fluffy Vacuum Cleanser.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item5_1 p {
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_2 {
+    width: 50%;
+    background-image: url('../images/Skeye Pico.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item5_2 p {
+    padding-top: 70px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_3 {
+    width: 50%;
+    background-image: url('../images/Monster 24 K Headphone.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item5_3 p {
+    padding-top: 57px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_4 {
+    width: 50%;
+    background-image: url('../images/Nakamichi S1 Japanese 3D Flexible Four-Bladed Electronical Shaver.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item5_4 p {
+    padding-top: 55px;
+    margin-bottom: 0px;
+}
+
+.technology_item5_5 {
+    width: 50%;
+    background-image: url('../images/SONY Playstation 4 500GB.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item5_5 p {
+    padding-top: 81px;
+    margin-bottom: 0px;
+}
+
+.technology_item6 {
+    padding: 0px;
+}
+
+.technology_item6 h6{
+    margin: 0px;
+}
+
+.technology_item6_1 {
+    background-image: url('../images/Canon EOS 5D with 24-105mm Kit set.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item6_1 p {
+    padding-top: 83px;
+    margin-bottom: 0px;
+}
+
+.technology_item6_2 {
+    background-image: url('../images/Dyson AM09 Purifer Fan.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.technology_item6_2 p {
+    padding-top: 105px;
+    margin-bottom: 0px;
+}
+
+.redemption_item_box {
+    background-color: #EB7220;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.redemption_item_title {
+    display: inline-block;
+    padding: 5px 5px 0 5px;
+    width: 100%;
+}
+
+.redemption_item_title p:first-child {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+.redemption_item_title p:last-child {
+    padding-right: 30px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin: 0;
+}
+
+.redemption_item {
+    display: inline-block;
+    padding: 0 5px;
+    width: 100%;
+}
+
+.redemption_item p:first-child {
+    margin: 0;
+}
+
+.redemption_item p:last-child {
+    padding-right: 60px;
+    padding-top: 10px;
+    margin: 0;
+}
+
+.item_bg {
+    background-color: rgba(0,0,0,.3);
+}
+
+.item_left {
+    width: 60%;
+}
+
+.redemption_item::after {
+    /*clear: both;*/
+}

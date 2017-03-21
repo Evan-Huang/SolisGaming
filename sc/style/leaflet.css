@@ -1,0 +1,59 @@
+.leaflets {
+	color: #ffffff;
+
+}
+
+.leaflets h2{
+	color: #ffce3d;
+	margin-bottom: 0;
+}
+
+.leaflet_detail {
+	padding: 30px;
+}
+
+.leaflet_left {
+	padding: 0 20px;
+}
+
+.leaflet_left ol {
+	color: #7b7b7b;
+}
+
+.leaflet_left ul {
+	color: #7b7b7b;
+}
+
+.leaflet_left_footer {
+    border-top: 1px solid #ffffff;
+    margin-top: 30px;
+    padding: 10px 0;
+}
+
+.right_footer_title {
+	color: rgba(245,125,34,1.00);
+}
+
+.leaflet_right {
+	padding: 0 20px;
+}
+
+.leaflet_right_logo {
+	padding: 470px 0;
+}
+
+
+@media screen and (max-width:767px) {
+	.leaflet_detail{
+		padding: 10px;
+	}
+
+	.leaflet_left {
+		padding: 0px;
+	}
+
+	.leaflet_right_logo {
+		padding: 100px 0;
+	}
+
+}
