@@ -17,16 +17,14 @@ h6 {
 
 p {
     color: #ccc;
+    font-size: 12px;
 }
 
 .luxury_top {
     background-color: #ffffff;
-    border:1px solid #ccc;
 }
 
 .luxury_center {
-    background-color: #EB7220;
-    border:1px solid #ccc;
 }
 
 .luxury_cn {
@@ -48,8 +46,9 @@ p {
 }
 
 .technology_item1_1 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/Apple iPad Pro Mini 4 Wi-Fi 128GB.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item1_1 p {
@@ -58,7 +57,9 @@ p {
 }
 
 .technology_item1_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Apple iPad Pro 9.7 Wi-Fi 32GB.jpg');
+    background-position: bottom center;
+    background-size: cover;
 }
 
 .technology_item1_2 p {
@@ -67,11 +68,13 @@ p {
 }
 
 .technology_item1_3 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Galaxy C5 32GB.jpg');
+    background-position: top left;
+    background-size: cover;
 }
 
 .technology_item1_3 p {
-    padding-top: 20px;
+    padding-top: 24px;
     margin-bottom: 0px;
 }
 
@@ -84,7 +87,9 @@ p {
 }
 
 .technology_item2_1 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Hua Wei Honor 6X 32GB.jpg');
+    background-position: top left;
+    background-size: cover;
 
 }
 
@@ -94,20 +99,24 @@ p {
 }
 
 .technology_item2_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Apple Watch Series 2 Sport 42mm.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item2_2 p {
-    padding-top: 60px;
+    padding-top: 70px;
     margin-bottom: 0px;
 }
 
 .technology_item2_3 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Hua Wei P9 32GB.jpg');
+    background-position: top left;
+    background-size: cover;
 }
 
 .technology_item2_3 p {
-    padding-top: 20px;
+    padding-top: 40px;
     margin-bottom: 0px;
 }
 
@@ -120,17 +129,21 @@ p {
 }
 
 .technology_item3_1 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Galaxy S7 EDGE 32GB.jpg');
+    background-position: center left;
+    background-size: cover;
 
 }
 
 .technology_item3_1 p {
-    padding-top: 80px;
+    padding-top: 93px;
     margin-bottom: 0px;
 }
 
 .technology_item3_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Apple Macbook Air 13 128GB.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item3_2 p {
@@ -174,7 +187,7 @@ p {
 }
 
 .redemption_item p:last-child {
-    padding-right: 60px;
+    padding-right: 50px;
     padding-top: 10px;
     margin: 0;
 }

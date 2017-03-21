@@ -17,6 +17,7 @@ h6 {
 
 p {
     color: #ccc;
+    font-size: 12px;
 }
 
 .list_space {
@@ -25,14 +26,13 @@ p {
     color: #ffffff;
 }
 
+
 .luxury_top {
     background-color: #ffffff;
-    border:1px solid #ccc;
 }
 
 .luxury_center {
     background-color: #EB7220;
-    border:1px solid #ccc;
 }
 
 .luxury_cn {
@@ -54,21 +54,24 @@ p {
 }
 
 .technology_item1_1 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/F&B Coupon Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item1_1 p {
-    padding-top: 140px;
+    padding-top: 145px;
     margin-bottom: 0px;
 }
 
 .technology_item1_2 {
-    border: 1px solid #ccc;
+    background: red url('../images/Chow Tai Fook Gift Voucher.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item1_2 p {
-    padding-top: 20px;
+    padding-top: 47px;
     margin-bottom: 0px;
 }
 
@@ -81,8 +84,10 @@ p {
 }
 
 .technology_item2_1 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-image: url('../images/Packnshop Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item2_1 p {
@@ -91,8 +96,11 @@ p {
 }
 
 .technology_item2_2 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-color: rgb(28,76,126);
+    background-image: url('../images/Royal Supermarker Voucher100.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item2_2 p {
@@ -101,12 +109,15 @@ p {
 }
 
 .technology_item2_3 {
-    border: 1px solid #ccc;
     clear: both;
+    background-color: rgb(64,44,14);
+    background-image: url('../images/New Yaohan Voucher 100.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item2_3 p {
-    padding-top: 113px;
+    padding-top: 145px;
     margin-bottom: 0px;
 }
 
@@ -119,26 +130,30 @@ p {
 }
 
 .technology_item3_1 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/Landmark - Elite Room.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item3_1 p {
-    padding-top: 94px;
+    padding-top: 115px;
     margin-bottom: 0px;
 }
 
 .technology_item3_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Grandview - Elite Room.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item3_2 p {
-    padding-top: 94px;
+    padding-top: 113px;
     margin-bottom: 0px;
 }
 
 .technology_item4 {
     padding: 0px;
+
 }
 
 .technology_item4 h6{
@@ -146,8 +161,9 @@ p {
 }
 
 .technology_item4_1 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/Casa Real - Elite Room_2.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item4_1 p {
@@ -156,7 +172,9 @@ p {
 }
 
 .technology_item4_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Landmark - Elite Room_2.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item4_2 p {
@@ -165,8 +183,9 @@ p {
 }
 
 .technology_item4_3 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/Cotai Water Jet.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item4_3 p {
@@ -175,7 +194,9 @@ p {
 }
 
 .technology_item4_4 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Turbojet  MAC.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item4_4 p {
@@ -192,8 +213,9 @@ p {
 }
 
 .technology_item5_1 {
-    border: 1px solid #ccc;
-
+    background-image: url('../images/Dyson V8 Fluffy Vacuum Cleanser.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item5_1 p {
@@ -202,42 +224,50 @@ p {
 }
 
 .technology_item5_2 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-image: url('../images/Skeye Pico.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item5_2 p {
-    padding-top: 48px;
+    padding-top: 70px;
     margin-bottom: 0px;
 }
 
 .technology_item5_3 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-image: url('../images/Monster 24 K Headphone.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item5_3 p {
-    padding-top: 48px;
+    padding-top: 57px;
     margin-bottom: 0px;
 }
 
 .technology_item5_4 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-image: url('../images/Nakamichi S1 Japanese 3D Flexible Four-Bladed Electronical Shaver.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item5_4 p {
-    padding-top: 48px;
+    padding-top: 55px;
     margin-bottom: 0px;
 }
 
 .technology_item5_5 {
-    border: 1px solid #ccc;
     width: 50%;
+    background-image: url('../images/SONY Playstation 4 500GB.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item5_5 p {
-    padding-top: 48px;
+    padding-top: 81px;
     margin-bottom: 0px;
 }
 
@@ -250,20 +280,24 @@ p {
 }
 
 .technology_item6_1 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Canon EOS 5D with 24-105mm Kit set.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item6_1 p {
-    padding-top: 70px;
+    padding-top: 83px;
     margin-bottom: 0px;
 }
 
 .technology_item6_2 {
-    border: 1px solid #ccc;
+    background-image: url('../images/Dyson AM09 Purifer Fan.jpg');
+    background-position: center center;
+    background-size: cover;
 }
 
 .technology_item6_2 p {
-    padding-top: 94px;
+    padding-top: 105px;
     margin-bottom: 0px;
 }
 
@@ -309,7 +343,11 @@ p {
 }
 
 .item_bg {
-    background-color: rgba(0,0,0,.5);
+    background-color: rgba(0,0,0,.3);
+}
+
+.item_left {
+    width: 60%;
 }
 
 .redemption_item::after {
