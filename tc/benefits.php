@@ -26,7 +26,7 @@
 <body class="benefits">
 	<!-- Header -->
 	<?php
-	include_once 'header.html';
+	include_once 'header.php';
 	?>
 	<!-- /Header -->
 	<div class="container-fluid" style="z-index: 1">
@@ -62,22 +62,18 @@
 									<tbody>
 										<tr>
 											<td>
-												<p>角子機投注 $40</p>
+												<p>角子機投注 $40 = 1 分</p>
 											</td>
-											<td>
-												<p>= 1 分</p>
-											</td>
+									
 											<td>
 												<p>10 分 = $1</p>
 											</td>
 										</tr>
 										<tr>
 											<td>
-												<p>電子輪盤及骰寶投注 $200</p>
+												<p>電子輪盤及骰寶投注 $200 = 1 分</p>
 											</td>
-											<td>
-												<p>= 1 分</p>
-											</td>
+								
 											<td>
 												<p>10 分 = $1</p>
 											</td>

@@ -24,7 +24,7 @@
 <body class="promotions">
 <!-- Header -->
 <?php
-    include_once 'header.html';
+    include_once 'header.php';
 ?>
 <!-- /Header -->
 <div class="container-fluid" style="z-index: 1">

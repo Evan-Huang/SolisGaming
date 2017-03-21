@@ -26,7 +26,7 @@
 <body class="benefits">
 	<!-- Header -->
 	<?php
-	include_once 'header.html';
+	include_once 'header.php';
 	?>
 	<!-- /Header -->
 	<div class="container-fluid" style="z-index: 1">
@@ -62,22 +62,18 @@
 									<tbody>
 										<tr>
 											<td>
-												<p>Slot Coin In $40</p>
+												<p>Slot Coin In $40 = 1 point</p>
 											</td>
-											<td>
-												<p>= 1 point</p>
-											</td>
+			
 											<td>
 												<p>10 points = $1</p>
 											</td>
 										</tr>
 										<tr>
 											<td>
-												<p>Electronic Roulette and Baccarat Coin In $200</p>
+												<p>Electronic Roulette and Baccarat Coin In $200 = 1 point</p>
 											</td>
-											<td>
-												<p>= 1 point</p>
-											</td>
+									
 											<td>
 												<p>10 points = $1</p>
 											</td>
