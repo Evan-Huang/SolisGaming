@@ -61,7 +61,7 @@
                                         <img  src="./images/redem_images_1.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>苹果手机 iPhone 7 plus 128GB</p>
-                                            <p>积分</p><p class="pull-right">85,000</p>
+                                            <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -70,7 +70,7 @@
                                         <img  src="./images/redem_images_2.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>苹果手机 iPhone 7 128GB</p>
-                                            <p>积分</p><p class="pull-right">69,000</p>
+                                            <p>Points</p><p class="pull-right">69,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@
                                         <img  src="./images/redem_images_3.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>华为 P9 32GB</p>
-                                            <p>积分</p><p class="pull-right">37,000</p>
+                                            <p>Points</p><p class="pull-right">37,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -89,7 +89,7 @@
                                         <img  src="./images/redem_images_4.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>华为 畅玩 6X 32GB</p>
-                                            <p>积分</p><p class="pull-right">17,000</p>
+                                            <p>Points</p><p class="pull-right">17,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                         <img  src="./images/redem_images_5.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>三星 C5 32GB</p>
-                                            <p>积分</p><p class="pull-right">85,000</p>
+                                            <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -107,7 +107,7 @@
                                         <img  src="./images/redem_images_6.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>三星 S7 EDGE 32GB</p>
-                                            <p>积分</p><p class="pull-right">51,000</p>
+                                            <p>Points</p><p class="pull-right">51,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -117,7 +117,7 @@
                                         <img  src="./images/redem_images_7.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>苹果手提电脑 Macbook Air 13' 128GB</p>
-                                            <p>积分</p><p class="pull-right">75,000</p>
+                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">75,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -125,8 +125,8 @@
                                     <div class="item_box">
                                         <img  src="./images/redem_images_8.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p style="padding-bottom: 0;">苹果手提电脑 Apple Macbook 12' 256GB</p>
-                                            <p style="padding-top: 15px;">积分</p><p class="pull-right">85,000</p>
+                                            <p>苹果手提电脑 Apple Macbook 12' 256GB</p>
+                                            <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -135,7 +135,7 @@
                                         <img  src="./images/redem_images_9.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>苹果平板电脑  Pro 9.7' Wi-Fi 32GB</p>
-                                            <p>积分</p><p class="pull-right">49,000</p>
+                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">49,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -143,8 +143,8 @@
                                     <div class="item_box">
                                         <img  src="./images/redem_images_10.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p style="padding-bottom: 0;">苹果平板电脑 iPad Pro Mini 4 Wi-Fi 128GB</p>
-                                            <p style="padding-top: 15px;">积分</p><p class="pull-right">42,000</p>
+                                            <p>苹果平板电脑 iPad Pro Mini 4 Wi-Fi 128GB</p>
+                                            <p>Points</p><p class="pull-right">42,000</p>
                                         </div>
                                     </div>
                                 </div>
@@ -153,7 +153,316 @@
                                         <img  src="./images/redem_images_11.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>苹果智能手表第二代 42mm</p>
-                                            <p>积分</p><p class="pull-right">38,000</p>
+                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">38,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/E-Bonus.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>即赏钱 $100</p>
+                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/F&B Coupon Voucher 100.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>餐饮礼劵$100</p>
+                                            <p>Points</p><p class="pull-right">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Packnshop Voucher 100.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>百佳超级市场礼劵$100</p>
+                                            <p>Points</p><p class="pull-right">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Royal Supermarker Voucher100.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>来来超级市场礼劵 $100</p>
+                                            <p>Points</p><p class="pull-right">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Macau Pass 100.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>澳门通充值$100</p>
+                                            <p>Points</p><p class="pull-right">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/New Yaohan Voucher 100.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>新八佰伴购物礼券$100</p>
+                                            <p>Points</p><p class="pull-right">1,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Chow Tai Fook Gift Voucher.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>周大福购物礼劵 $1,000</p>
+                                            <p>Points</p><p class="pull-right">10,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Grandview - Elite Room.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>君怡酒店豪华客房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">9,000 / 11,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Grandview - Elite Room_2.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>君怡酒店豪华套房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">22,000 / 32,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Casa Real - Elite Room.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>皇家金堡酒店豪华客房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">11,000 / 16,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Casa Real - Elite Room_2.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>皇家金堡酒店豪华套房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">21,000 / 26,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Landmark - Elite Room.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>置地酒店豪华客房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">12,000 / 19,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Landmark - Elite Room_2.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>置地酒店豪华套房(星期日至四) / (星期五及六)</p>
+                                            <p>Points</p><p class="pull-right">24,000 / 31,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 香港 普通位/ 豪华位 / 至尊位</p>
+                                            <p>Points</p><p class="pull-right" style="padding: 12px 2px;">2000 / 4000 / 5,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 九龙 普通位/ 豪华位</p>
+                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 屯门 普通位/ 豪华位</p>
+                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 深圳机场 普通位/ 豪华位</p>
+                                            <p>Points</p><p class="pull-right">2,500 / 4,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 广州(南沙) 普通位/ 豪华位</p>
+                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>喷射队航 澳门 <=> 蛇口 普通位/ 豪华位</p>
+                                            <p>Points</p><p class="pull-right">2,500 / 4,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Cotai Water Jet.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>金光飞航 澳门 <=> 香港  普通位</p>
+                                            <p>Points</p><p class="pull-right">2,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Monster 24 K Headphone.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>头戴式耳机</p>
+                                            <p>Points</p><p class="pull-right">25,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Beats Tour 2.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>入耳式耳机</p>
+                                            <p>Points</p><p class="pull-right">11,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Casio EX-TR70 camera.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>自拍神器 EX-TR70</p>
+                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">64,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Canon EOS 5D with 24-105mm Kit set.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>佳能 EOS 5D 数码单镜反光相机套装(配 24 - 105mm镜头)</p>
+                                            <p>Points</p><p class="pull-right">229,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Canon EOS 100D with 18-55mm Lens Kit set.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>佳能 EOS 100D 数码单镜反光相机套装(配 18 - 55mm镜头)</p>
+                                            <p>Points</p><p class="pull-right">38,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Polaroid Snap Instant Camera.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>宝丽来拍立得</p>
+                                            <p>Points</p><p class="pull-right">12,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/HITI Pringo P231.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>随身行动相印机 P231</p>
+                                            <p>Points</p><p class="pull-right">8,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Dyson V8 Fluffy Vacuum Cleanser.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>戴森 V8 吸尘机</p>
+                                            <p>Points</p><p class="pull-right">56,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Dyson AM09 Purifer Fan.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>戴森 AM09 风扇暖风机</p>
+                                            <p>Points</p><p class="pull-right">50,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Nakamichi S1 Japanese 3D Flexible Four-Bladed Electronical Shaver.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>立体浮动4刀头鬚风机</p>
+                                            <p>Points</p><p class="pull-right">11,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Philips AT600 Shaver.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>飞利浦AT600电动鬚刨</p>
+                                            <p>Points</p><p class="pull-right">6,500</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Skeye Pico.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>迷你遥控飞机</p>
+                                            <p>Points</p><p class="pull-right">7,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/SONY Playstation 4 500GB.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>索尼家用游戏机PS4</p>
+                                            <p>Points</p><p class="pull-right">28,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/SONY Vita2000.jpg" class="img-responsive">
+                                        <div class="item_content">
+                                            <p>索尼手提游戏机</p>
+                                            <p>Points</p><p class="pull-right">16,000</p>
                                         </div>
                                     </div>
                                 </div>
