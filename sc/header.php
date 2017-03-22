@@ -36,11 +36,11 @@
                         <li role="separator" class="divider"></li>
                         <li><a href="index.php#cards" class="button" rel="cards">永昱会会籍</a></li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="benefits.php">Benefits of membership</a></li>
+                        <li><a href="benefits.php">会员精彩礼遇</a></li>
                         <li role="separator" class="divider"></li>
                         <li><a href="promotions.php">推广活动</a></li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="redemption-program.php">Redemption Program</a></li>
+                        <li><a href="redemption-program.php">积分奖赏计划</a></li>
                     </ul>
                 </li>
                 <li><a href="index.php#jobs" class="button" rel="jobs" >人才招聘</a></li>

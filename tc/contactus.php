@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>Home | Solis</title>
+<title>聯絡我們 | Solis永昱</title>
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -104,24 +104,24 @@
           <div class="col-md-6 col-md-offset-1">
             <div class="contact_content">
               <form>
-                <h3 class="title">GET IN TOUCH</h3>
+                <h3 class="title">聯繫資料H</h3>
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Your Name</label>
+                  <label for="exampleInputEmail1">姓名</label>
                   <input type="text" class="form-control" id="exampleInputName1" placeholder="Name" >
                 </div>
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Your E-mail</label>
+                  <label for="exampleInputEmail1">電郵</label>
                   <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" >
                 </div>
                 <div class="form-group">
-                  <label for="exampleInputPassword1">Your Phone</label>
+                  <label for="exampleInputPassword1">電話</label>
                   <input type="text" class="form-control" id="exampleInputPhone1" placeholder="Phone" >
                 </div>
                 <div class="form-group">
-                  <label for="message">Your Message</label>
+                  <label for="message">留言</label>
                   <textarea style="height: 120px" class="form-control" value=""></textarea>
                 </div>
-                <button type="submit" class="btn btn-default">SEND</button>
+                <button type="submit" class="btn btn-default">發送</button>
               </form>
             </div>
           </div>

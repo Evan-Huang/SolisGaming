@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>Home | Solis</title>
+<title>首页 | Solis永昱</title>
 
 <!-- Bootstrap -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -69,7 +69,7 @@
     <!-- The Brand Story -->
     <div class="row white_bg" id="who">
       <div class="col-md-6">
-        <h1 class="text-center">WHO WE ARE</h1>
+        <h1 class="text-center">关于永昱</h1>
       </div>
       <div class="col-md-6 who_text_p">
 
@@ -176,13 +176,13 @@
       <div class="col-md-6 local_place_bg">
         <a href="benefits.php">
         <div class="club_text_box">
-          <h3>Benefits of Membership</h3>
-          <p>Discover the benefits of being a Club SOLIS member.</p>
+          <h3>会员精彩礼遇</h3>
+          <p>成为永昱会员，发展精彩礼遇。</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>
       <div class="col-md-12" id="cards">
-        <h2 class="club_title">Club Solis Cards TIER:</h2>
+        <h2 class="club_title">永昱会会藉：</h2>
       </div>
 	<div class="col-md-12 local_place_bg ">
 			<table class="table borderless">

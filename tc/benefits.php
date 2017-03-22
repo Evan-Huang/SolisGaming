@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<title>Home | Solis</title>
+	<title>會員精彩禮遇 | SOLIS永昱</title>
 
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,8 +35,7 @@
 				<div class="col-lg-12">
 					<div class="hero_banner benefit" style="background-image: url('images/benefits_banner.jpg')">
 						<div class="benefit_tagline">
-							<h2>BENEFITS OF MEMBERSHIP</h2>
-							<p>Discover the benefits of being a Club Solis member.</p>
+							<h2>會員精彩禮遇</h2>
 						</div>
 					</div>
 				</div>
@@ -47,7 +46,7 @@
 						<div class="crumb">
 							<a href="index.php">SOLIS永昱</a> >
                             <label style="display: inline;font-weight: normal;">永昱會</label> >
-							<label style="display: inline;font-weight: normal;">Benefits of Membership</label>
+							<label style="display: inline;font-weight: normal;">會員精彩禮遇</label>
 						</div>
 					</div>
 

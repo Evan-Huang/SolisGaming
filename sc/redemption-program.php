@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-	<title>Home | Solis</title>
+	<title>积分奖赏计划 | SOLIS永昱</title>
 
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 				<div class="col-lg-12">
 					<div class="hero_banner redemption_program" style="background-image: url(images/redemption_banner.jpg)">
 						<div class="redemption_program_tagline">
-							<h2>Redemption Program</h2>
+							<h2>积分奖赏计划</h2>
 						</div>
 					</div>
 				</div>
@@ -46,7 +46,7 @@
 						<div class="crumb">
 							<a href="index.php">SOLIS永昱</a> >
                             <label style="display: inline;font-weight: normal;">永昱会</label> >
-							<label style="display: inline;font-weight: normal;">Redemption Program</label>
+							<label style="display: inline;font-weight: normal;">积分奖赏计划</label>
 						</div>
 					</div>
 
