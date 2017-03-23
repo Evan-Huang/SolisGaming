@@ -80,7 +80,7 @@
       </div>
     </div>
     <!-- Who we are -->
-    <div class="row who_bg" id="about">
+    <div class="row who_bg hide" id="about">
       <div class="col-lg-12">
         <div class="who_text_box text-justify">
           <h2 class="text-center">關於永昱</h2>
@@ -110,7 +110,7 @@
         <h2 class="text-center">澳門永昱位置</h2>
       </div>
       <div class="col-sm-12">
-      	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs&hl=uk" width="100%" height="320"></iframe>
+      	<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RwQcA-M-sqM-XcEc5kaL8c2SMcs&hl=zh_CN" width="100%" height="320"></iframe>
       </div>
       <div class="col-md-4 local_place_bg"> 
        <div class="text-center local_img"><img src="images/location_1.jpg" alt="" class="img-responsive"></div>
