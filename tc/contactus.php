@@ -104,7 +104,7 @@
           <div class="col-md-6 col-md-offset-1">
             <div class="contact_content">
               <form>
-                <h3 class="title">聯繫資料H</h3>
+                <h3 class="title">聯繫資料</h3>
                 <div class="form-group">
                   <label for="exampleInputEmail1">姓名</label>
                   <input type="text" class="form-control" id="exampleInputName1" placeholder="Name" >
@@ -119,9 +119,9 @@
                 </div>
                 <div class="form-group">
                   <label for="message">留言</label>
-                  <textarea style="height: 120px" class="form-control" value=""></textarea>
+                  <textarea id="exampleInputMessage1" style="height: 120px" class="form-control" value=""></textarea>
                 </div>
-                <button type="submit" class="btn btn-default">發送</button>
+                <button type="button" class="btn btn-default" onclick="getintouch()">發送</button>
               </form>
             </div>
           </div>
@@ -180,7 +180,30 @@
         }
     }
 
+    function getintouch() {
 
+        var exampleInputName1 = $("#exampleInputName1").val();
+        var exampleInputEmail1 = $("#exampleInputEmail1").val();
+        var exampleInputPhone1 = $("#exampleInputPhone1").val();
+        var exampleInputMessage1 = $("#exampleInputMessage1").val();
+
+        $.ajax({
+            type : "POST",
+            url :  "../swiftmailer/mailgun_with_swiftmailer.php",
+            data:  {"exampleInputName1" : exampleInputName1,"exampleInputEmail1" : exampleInputEmail1,"exampleInputPhone1" : exampleInputPhone1, "exampleInputMessage1" : exampleInputMessage1},
+            success : function (data) {
+//                if (data == 'success')
+//                    alert('success');
+            },
+            complete : function (data) {
+//                if (data == 'false')
+//                    alert('fail');
+            },
+            error : function (data) {
+            }
+        });
+        alert('success');
+    }
 
 	</script>
 </body>

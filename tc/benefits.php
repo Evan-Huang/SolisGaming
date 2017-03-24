@@ -84,43 +84,43 @@
 
 							<h4 class="rewardsandoffers">優惠及禮遇</h4>
 							<div class="row cards hidden-xs">
-								<div class="col-sm-3"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style="">
-									<p>太極</p>
-								</div>
-								<div class="col-sm-3"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style="">
-									<p>宇宙</p>
-								</div>
-								<div class="col-sm-3"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style="">
-									<p>昱月</p>
-								</div>
-								<div class="col-sm-3"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style="">
-									<p>昱星</p>
-								</div>
+                                <div class="col-sm-3"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style="">
+                                    <p>昱星</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style="">
+                                    <p>昱月</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style="">
+                                    <p>宇宙</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style="">
+                                    <p>太極</p>
+                                </div>
 							</div>
 							<div class="row cards_detail">
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style=""><span>EQUINOX</span>
-								</div>
-								<div class="col-sm-3">
-									<p>由宇宙升級至太極，只限被邀請之貴賓會員，可尊享為您貼心製訂的個人化客戶服務及設施</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style=""><span>STAR</span>
+                                </div>
+                                <div class="col-sm-3 ">
+                                    <p>歡迎您加入永昱會，成為昱星會員並邁向勝利之門及開始賺取積分換取精彩禮遇!</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style=""><span>SOLSTICE</span>
-								</div>
-								<div class="col-sm-3">
-									<p>由昱月升級至宇宙：只需於過去6個月內賺取26,888分或以上</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style=""><span>CELESTIAL</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>由昱星升級至昱月：只需在過去6個月內賺取3,888 分或以上</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style=""><span>CELESTIAL</span>
-								</div>
-								<div class="col-sm-3">
-									<p>由昱星升級至昱月：只需在過去6個月內賺取3,888 分或以上</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style=""><span>SOLSTICE</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>由昱月升級至宇宙：只需於過去6個月內賺取26,888分或以上</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style=""><span>STAR</span>
-								</div>
-								<div class="col-sm-3 ">
-									<p>歡迎您加入永昱會，成為昱星會員並邁向勝利之門及開始賺取積分換取精彩禮遇!</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style=""><span>EQUINOX</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>由宇宙升級至太極，只限被邀請之貴賓會員，可尊享為您貼心製訂的個人化客戶服務及設施</p>
+                                </div>
 							</div>
 
 							<div class="row discount_redemption">
@@ -130,51 +130,51 @@
 
 											<thead>
 												<tr>
-													<th>
+                                                    <th>
 														折扣優惠
 													</th>
-													<th>
-                                                        太極
-													</th>
-													<th>
-                                                        宇宙
-													</th>
-													<th>
-                                                        昱月
-													</th>
-													<th>
+                                                    <th>
                                                         昱星
+                                                    </th>
+                                                    <th>
+                                                        昱月
+                                                    </th>
+                                                    <th>
+                                                        宇宙
+                                                    </th>
+                                                    <th>
+                                                        太極
 													</th>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
 													<td>餐飲 ( 君怡 )</td>
-													<td>20%</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-												</tr>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
+                                                    <td>20%</td>
+                                                </tr>
 												<tr>
 													<td>餐飲 ( 皇家金堡 )</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
-													<td>5%</td>
-												</tr>
+                                                    <td>5%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                </tr>
 												<tr>
 													<td>餐飲 (置地怡心閣,帝皇殿,碧瑟)</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
 												</tr>
 												<tr>
 													<td>水療 ( 置地 )</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
 												</tr>
 
 											</tbody>
@@ -192,17 +192,17 @@
 													<th>
 														積分換領 (不適用於折扣優惠)
 													</th>
-													<th>
-                                                        太極
-													</th>
-													<th>
-                                                        宇宙
-													</th>
-													<th>
-                                                        昱月
-													</th>
-													<th>
+                                                    <th>
                                                         昱星
+                                                    </th>
+                                                    <th>
+                                                        昱月
+                                                    </th>
+                                                    <th>
+                                                        宇宙
+                                                    </th>
+                                                    <th>
+                                                        太極
 													</th>
 												</tr>
 											</thead>

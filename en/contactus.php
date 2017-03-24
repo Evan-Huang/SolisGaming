@@ -123,9 +123,9 @@
                 </div>
                 <div class="form-group">
                   <label for="message">Your Message</label>
-                  <textarea style="height: 120px" class="form-control" value=""></textarea>
+                  <textarea id="exampleInputMessage1" style="height: 120px" class="form-control" value=""></textarea>
                 </div>
-                <button type="submit" class="btn btn-default">SEND</button>
+                <button type="button" class="btn btn-default" onclick="getintouch()">SEND</button>
               </form>
             </div>
           </div>
@@ -183,6 +183,31 @@
             history.back();
         }
     }
+    
+    function getintouch() {
+
+        var exampleInputName1 = $("#exampleInputName1").val();
+        var exampleInputEmail1 = $("#exampleInputEmail1").val();
+        var exampleInputPhone1 = $("#exampleInputPhone1").val();
+        var exampleInputMessage1 = $("#exampleInputMessage1").val();
+
+        $.ajax({
+            type : "POST",
+            url :  "../swiftmailer/mailgun_with_swiftmailer.php",
+            data:  {"exampleInputName1" : exampleInputName1,"exampleInputEmail1" : exampleInputEmail1,"exampleInputPhone1" : exampleInputPhone1, "exampleInputMessage1" : exampleInputMessage1},
+            success : function (data) {
+//                if (data == 'success')
+//                alert('success');
+            },
+            complete : function (data) {
+//                if (data == 'false')
+//                    alert('fail');
+            },
+            error : function (data) {
+            }
+        });
+    }
+
 
 
 

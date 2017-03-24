@@ -85,43 +85,43 @@
 
 							<h4 class="rewardsandoffers">REWARDS AND OFFERS</h4>
 							<div class="row cards hidden-xs">
-								<div class="col-sm-3"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style="">
-									<p>EQUINOX</p>
-								</div>
-								<div class="col-sm-3"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style="">
-									<p>SOLSTICE</p>
-								</div>
-								<div class="col-sm-3"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style="">
-									<p>CELESTIAL</p>
-								</div>
-								<div class="col-sm-3"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style="">
-									<p>STAR</p>
-								</div>
+                                <div class="col-sm-3"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style="">
+                                    <p>STAR</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style="">
+                                    <p>CELESTIAL</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style="">
+                                    <p>SOLSTICE</p>
+                                </div>
+                                <div class="col-sm-3"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style="">
+                                    <p>EQUINOX</p>
+                                </div>
 							</div>
 							<div class="row cards_detail">
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style=""><span>EQUINOX</span>
-								</div>
-								<div class="col-sm-3">
-									<p>Exclusively available to invited guests only. Prestige Personalized Customer Service and facilities offered.</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style=""><span>STAR</span>
+                                </div>
+                                <div class="col-sm-3 ">
+                                    <p>Welcome to the world of Club SOLIS and open the door to victory and exciting privileges!</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style=""><span>SOLSTICE</span>
-								</div>
-								<div class="col-sm-3">
-									<p>Earn 26,888 points or more in the last 6 months.</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style=""><span>CELESTIAL</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>Earn 3,888 points or more in the last 6 months.</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card3" src="images/card_face_2.png" alt="" class="img-responsive center-block" style=""><span>CELESTIAL</span>
-								</div>
-								<div class="col-sm-3">
-									<p>Earn 3,888 points or more in the last 6 months.</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card2" src="images/card_face_3.png" alt="" class="img-responsive center-block" style=""><span>SOLSTICE</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>Earn 26,888 points or more in the last 6 months.</p>
+                                </div>
 
-								<div class="col-sm-3 text-center visible-xs-block"><img id="card4" src="images/card_face_1.png" alt="" class="img-responsive center-block" style=""><span>STAR</span>
-								</div>
-								<div class="col-sm-3 ">
-									<p>Welcome to the world of Club SOLIS and open the door to victory and exciting privileges!</p>
-								</div>
+                                <div class="col-sm-3 text-center visible-xs-block"><img id="card1" src="images/card_face_4.png" alt="" class="img-responsive center-block" style=""><span>EQUINOX</span>
+                                </div>
+                                <div class="col-sm-3">
+                                    <p>Exclusively available to invited guests only. Prestige Personalized Customer Service and facilities offered.</p>
+                                </div>
 							</div>
 
 							<div class="row discount_redemption">
@@ -134,48 +134,48 @@
 													<th>
 														Discount
 													</th>
-													<th>
+                                                    <th>
+                                                        STAR
+                                                    </th>
+                                                    <th>
+                                                        CELESTIAL
+                                                    </th>
+                                                    <th>
+                                                        SOLSTICE
+                                                    </th>
+                                                    <th>
 														EQUINOX
-													</th>
-													<th>
-														SOLSTICE
-													</th>
-													<th>
-														CELESTIAL
-													</th>
-													<th>
-														STAR
 													</th>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
 													<td>Restaurant Grandview</td>
-													<td>20%</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-												</tr>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
+                                                    <td>20%</td>
+                                                </tr>
 												<tr>
 													<td>Restaurant Case Real</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
-													<td>5%</td>
-												</tr>
+                                                    <td>5%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                </tr>
 												<tr>
 													<td>Restaurant (Landmark-Varanda,King of kings,Petrus)</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
 												</tr>
 												<tr>
 													<td>Spa (Landmark)</td>
-													<td>15%</td>
-													<td>15%</td>
-													<td>10%</td>
-													<td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>10%</td>
+                                                    <td>15%</td>
+                                                    <td>15%</td>
 												</tr>
 
 											</tbody>
@@ -193,17 +193,17 @@
 													<th>
 														Redemption (Not application to discounts)
 													</th>
-													<th>
+                                                    <th>
+                                                        STAR
+                                                    </th>
+                                                    <th>
+                                                        CELESTIAL
+                                                    </th>
+                                                    <th>
+                                                        SOLSTICE
+                                                    </th>
+                                                    <th>
 														EQUINOX
-													</th>
-													<th>
-														SOLSTICE
-													</th>
-													<th>
-														CELESTIAL
-													</th>
-													<th>
-														STAR
 													</th>
 												</tr>
 											</thead>
