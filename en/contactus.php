@@ -190,7 +190,7 @@
         var exampleInputEmail1 = $("#exampleInputEmail1").val();
         var exampleInputPhone1 = $("#exampleInputPhone1").val();
         var exampleInputMessage1 = $("#exampleInputMessage1").val();
-
+        alert('success');
         $.ajax({
             type : "POST",
             url :  "../swiftmailer/mailgun_with_swiftmailer.php",
