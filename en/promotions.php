@@ -69,6 +69,30 @@
                     </a>
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="promotion_box">
+                    <a href="promotion-1003.php">
+                        <div class="promotion_banner" style="background-image: url('images/promo_banner_3.jpg')">
+                            <img src="images/promo_frame.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="promotion_title">CLUB SOLIS Daily Rewards Promotion</div>
+                        <div class="promotion_button">DETAILS</div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="promotion_box">
+                    <a href="promotion-1004.php">
+                        <div class="promotion_banner" style="background-image: url('images/promo_banner_4.jpg')">
+                            <img src="images/promo_frame.png" alt="" class="img-responsive">
+                        </div>
+                        <div class="promotion_title">Join Club Solis, Rewards $50 E-bonus/
+                            Shopping Voucher
+                        </div>
+                        <div class="promotion_button">DETAILS</div>
+                    </a>
+                </div>
+            </div>
         </div>
 
 
