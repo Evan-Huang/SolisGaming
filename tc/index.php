@@ -231,8 +231,7 @@
       <div class="col-lg-12">
         <h2>人才招聘</h2>
       </div>
-      <div class="col-xs-6 col-md-3"><img src="images/jobs_photo2.jpg" alt="" class="img-responsive"></div>
-      <div class="col-xs-6 col-md-3"><img src="images/jobs_photo1.jpg" alt="" class="img-responsive"></div>
+      <div class="col-xs-6 col-md-6"><img src="../en/images/hr_pic.jpg" alt="" class="img-responsive"></div>
       <div class="col-md-6 text-justify">
         <p><strong>加入永昱的大家庭</strong></p>
         <p>成為永昱的一份子讓您體驗著不一樣的工作，我們擁有開懷、友善及充滿幹勁的工作環境，為您提供優厚的員工福利、醫療保險、全面的職業培訓計劃及非一般的晉升機會，助您成就夢寐以求的輝煌事業。</p>

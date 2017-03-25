@@ -231,8 +231,7 @@
       <div class="col-lg-12">
         <h2>CAREERS</h2>
       </div>
-      <div class="col-xs-6 col-md-3"><img src="images/jobs_photo2.jpg" alt="" class="img-responsive"></div>
-      <div class="col-xs-6 col-md-3"><img src="images/jobs_photo1.jpg" alt="" class="img-responsive"></div>
+      <div class="col-xs-6 col-md-6"><img src="images/hr_pic.jpg" alt="" class="img-responsive"></div>
       <div class="col-md-6 text-justify">
         <p><strong>Become Part of the SOLIS Family</strong></p>
         <p>At SOLIS, you will experience much more than just a career in a fun, friendly and exciting environment. You’ll achieve your dream career that offers exceptional opportunities for professional advancement and personal accomplishment. We offer excellent benefits, insurance and comprehensive career advancement program.</p>
