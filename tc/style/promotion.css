@@ -71,6 +71,10 @@
 	background: #b39e6a;
 }
 
+.promotion_content_row_col p:first-child { 
+    background-color: #ffe197;
+}
+
 .promotion_content_row_col p:last-child {
 	min-height: 200px;
 }
