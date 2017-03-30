@@ -21,11 +21,13 @@ $name = $_POST['exampleInputName1'];
 $phone = $_POST['exampleInputPhone1'];
 $msg = $_POST['exampleInputMessage1'];
 
+$toemail = 'info@solismacau.com';
+
 // Create a message
 $message = Swift_Message::newInstance('SOLIS')
     ->setFrom(array('postmaster@byross.tech' => 'SOLIS'))
-    ->setTo(array($email, $email => $name))
-    ->setBody($msg);
+    ->setTo(array($toemail, $toemail => 'solismacau'))
+    ->setBody('email : ' . $email . '<br>name : ' . $name . '<br>phone : ' . $phone . '<br>msg : ' . $msg,'text/html');
 
 // Send the message
 $result = $mailer->send($message);
