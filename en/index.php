@@ -80,12 +80,12 @@
       </div>
     </div>
     <!-- Who we are -->
-    <div class="row who_bg hide" id="about">
+    <div class="row who_bg" id="about">
       <div class="col-lg-12">
         <div class="who_text_box text-justify">
           <h2 class="text-center">ABOUT SOLIS</h2>
           <p>Introduced in 2016, the SOLIS brand encompasses a team of experienced gaming professionals, focused on the Asian Casino Market.  Our Senior Management Team have been living and operating casino’s in Asia for more than 15 years in jurisdictions such as Macau, Vietnam, and Philippines.</p>
-          <p>SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</p>
+          <p class="hide">SOLIS is the wholly owned brand of the Gaming Business of Success Dragon Gaming Investments (SDGI); a joint venture between Success Dragon International (HKEX1182) and Vision Entertainment Group Macau.</p>
           <p>Head quartered in Hong Kong, and with operating offices in Macau and Vietnam, SOLIS is currently undertaking major expansion plans into other parts of Asia.  Our expertise lies in the Operation and Management of Casinos; both Table Operations and Slot Operations.</p>
           <p>The SOLIS Management team is continually building on its reputation for best in class Casino Management and Gaming Related Investment opportunities throughout Asia.  We are a young, forwarded thinking organization bringing new ideas, constantly challenging the status quo, and tirelessly looking for competitive edges in what is becoming a competitive market place.</p>
 
