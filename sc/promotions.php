@@ -50,27 +50,6 @@
             </div>
             <div class="col-md-4">
                 <div class="promotion_box">
-                    <a href="promotion-1001.php">
-                        <div class="promotion_banner" style="background-image: url('images/promo_500.png')">
-                            <img src="images/promo_frame.png" alt="" class="img-responsive"></div>
-                        <div class="promotion_title">永昱会赏您免费餐饮美食</div>
-                        <div class="promotion_button">详情</div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="promotion_box">
-                    <a href="promotion-1002.php">
-                        <div class="promotion_banner" style="background-image: url('images/promo_banner_2.png')">
-                            <img src="images/promo_frame.png" alt="" class="img-responsive">
-                        </div>
-                        <div class="promotion_title">加入永昱会，赏您$100即赏钱！</div>
-                        <div class="promotion_button">详情</div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="promotion_box">
                     <a href="promotion-1003.php">
                         <div class="promotion_banner" style="background-image: url('images/promo_banner_3.jpg')">
                             <img src="images/promo_frame.png" alt="" class="img-responsive">
