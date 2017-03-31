@@ -30,7 +30,7 @@
                 <li><a href="index.php#who" class="button" rel="who" >关于永昱</a></li>
                 <li><a href="index.php#location" class="button" rel="location" >澳門永昱位置</a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >永昱會</a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >永昱会</a>
                     <ul class="dropdown-menu" style="text-align:center">
                         <li><a href="index.php#club" class="button" rel="club">永昱会简介</a></li>
                         <li role="separator" class="divider"></li>

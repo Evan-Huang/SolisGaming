@@ -56,7 +56,7 @@
 							<h4 class="redemptionitem">REDEMPTION ITEM</h4>
 
                             <div class="row">
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_1.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -65,7 +65,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_2.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -74,7 +74,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_3.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -84,7 +84,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_4.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -93,7 +93,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_5.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -102,7 +102,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_6.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -112,25 +112,25 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_7.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content apple_macbook_air_13">
                                             <p>Apple Macbook Air 13' 128GB</p>
                                             <p>Points</p><p class="pull-right">75,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_8.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content apple_macbook_air_12">
                                             <p>Apple Macbook Air 12' 256GB</p>
                                             <p>Points</p><p class="pull-right">85,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_9.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -139,7 +139,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_10.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -148,7 +148,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/redem_images_11.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -158,34 +158,34 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/E-Bonus.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content e_bonus">
                                             <p>E-Bonus</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/F&B Coupon Voucher 100.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content coupon_voucher">
                                             <p>F&B Coupon Voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Packnshop Voucher 100.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content packnshop_voucher">
                                             <p>Packnshop Voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Royal Supermarker Voucher100.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -194,25 +194,25 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Macau Pass 100.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content macau_pass">
                                             <p>Macau Pass $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/New Yaohan Voucher 100.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content new_yaohan_voucher">
                                             <p>New Yaohan Voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Chow Tai Fook Gift Voucher.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -222,115 +222,62 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Grandview - Elite Room.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Grandview - Elite Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">9,000 / 11,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Grandview - Elite Room_2.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Grandview - Premier Deluxe Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">22,000 / 32,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Casa Real - Elite Room.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Casa Real - Elite Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">11,000 / 16,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Casa Real - Elite Room_2.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Casa Real - Suite Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">21,000 / 26,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Landmark - Elite Room.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Landmark - Elite Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">12,000 / 19,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Landmark - Elite Room_2.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content room">
                                             <p>Landmark  - Suite Room (Sun - Thus) / (Fri - Sat)</p>
                                             <p>Points</p><p class="pull-right">24,000 / 31,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Hong Kong Eco / Super / Premier Class</p>
-                                            <p>Points</p><p class="pull-right" style="padding: 12px 2px;">2000 / 4000 / 5,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Kowloon Eco / Super Class</p>
-                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Tuen Mun Eco / Super Class</p>
-                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Shenzhen Airport Eco / Super Class</p>
-                                            <p>Points</p><p class="pull-right">2,500 / 4,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Guangzhou Eco / Super Class</p>
-                                            <p>Points</p><p class="pull-right">2,000 / 4,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="item_box">
-                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
-                                        <div class="item_content">
-                                            <p>Turbojet  MAC <=> Shekou Eco / Super Class</p>
-                                            <p>Points</p><p class="pull-right">2,500 / 4,000</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
+
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Cotai Water Jet.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -340,7 +287,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Monster 24 K Headphone.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -349,16 +296,16 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Beats Tour 2.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content beats_tour">
                                             <p>Beats Tour 2</p>
                                             <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">11,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Casio EX-TR70 camera.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -367,16 +314,16 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Canon EOS 5D with 24-105mm Kit set.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content canon_eos_5d">
                                             <p>Canon EOS 5D with 24-105mm Kit set</p>
-                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">229,000</p>
+                                            <p>Points</p><p class="pull-right">229,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Canon EOS 100D with 18-55mm Lens Kit set.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -385,25 +332,25 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Polaroid Snap Instant Camera.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content polaroid_snap_instant_camera">
                                             <p>Polaroid Snap Instant Camera</p>
                                             <p>Points</p><p class="pull-right">12,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/HITI Pringo P231.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content hiti_pringo_p231">
                                             <p>HITI Pringo P231</p>
                                             <p>Points</p><p class="pull-right">8,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Dyson V8 Fluffy Vacuum Cleanser.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -412,16 +359,16 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Dyson AM09 Purifer Fan.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content dyson_am09_purifer_fan">
                                             <p>Dyson AM09 Purifer Fan</p>
-                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">50,000</p>
+                                            <p >Points</p><p class="pull-right">50,000</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Nakamichi S1 Japanese 3D Flexible Four-Bladed Electronical Shaver.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -430,16 +377,16 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Philips AT600 Shaver.jpg" class="img-responsive">
-                                        <div class="item_content">
+                                        <div class="item_content philips_at600">
                                             <p>Philips AT600 Shaver</p>
-                                            <p style="padding-top: 45px;">Points</p><p class="pull-right" style="padding-top: 45px;">6,500</p>
+                                            <p>Points</p><p class="pull-right" >6,500</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/Skeye Pico.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -448,7 +395,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/SONY Playstation 4 500GB.jpg" class="img-responsive">
                                         <div class="item_content">
@@ -457,12 +404,26 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-sm-6 col-md-4">
                                     <div class="item_box">
                                         <img  src="./images/SONY Vita2000.jpg" class="img-responsive">
                                         <div class="item_content">
                                             <p>SONY Vita2000</p>
                                             <p>Points</p><p class="pull-right">16,000</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-6 col-md-4">
+                                    <div class="item_box">
+                                        <img  src="./images/Turbojet  MAC.jpg" class="img-responsive">
+                                        <div class="item_content turbojet">
+                                            <p>a.       Macau – HK (Eco / Super / Premier Class / <b>2,000</b> / <b>4,000</b> / <b>5,000</b> Points)</p>
+                                            <p style="color: #ffffff;font-size: 18px;">b.       Macau – Kowloon (Eco / Super Class / <b>2,000</b> / <b>4,000</b> Points)</p>
+                                            <p style="color: #ffffff;font-size: 18px;">c.       Macau – Tuen Mun (Eco / Super Class / <b>2,000</b> / <b>4,000</b> Points)</p>
+                                            <p>d.       Macau – Shenzhen (Eco / Super Class / <b>2,500</b> / <b>4,000</b> Points)</p>
+                                            <p>e.       Macau – Guangzhou (Eco / Super Class / <b>2,000</b> / <b>4,000</b> Points)</p>
+                                            <p>f.       Macau – Shekou (Eco / Super Class / <b>2,500</b> / <b>4,000</b> Points)</p>
                                         </div>
                                     </div>
                                 </div>

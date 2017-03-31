@@ -86,7 +86,34 @@
     line-height: 35px;
 }
 
+.canon_eos_5d p:nth-child(2) {
+    padding-top: 45px;
+}
 
+.canon_eos_5d p:nth-child(3) {
+    padding-top: 45px;
+}
+
+.philips_at600 p:nth-child(2){
+    padding-top: 45px;
+}
+
+.philips_at600 p:nth-child(3){
+    padding-top: 45px;
+}
+
+.dyson_am09_purifer_fan p:nth-child(2) {
+    padding-top: 45px;
+}
+
+.dyson_am09_purifer_fan p:nth-child(3) {
+    padding-top: 45px;
+}
+
+.turbojet b{
+    font-weight: normal;
+    color: #ffce3d;;
+}
 
 
 @media screen and (max-width:767px) {
@@ -108,6 +135,163 @@
 
     .item_box img{
         min-height: 0;
+        width: 100%;
     }
 
+}
+
+@media screen and (max-width:991px) {
+
+    .canon_eos_5d p:nth-child(2) {
+        padding-top: 20px;
+    }
+
+    .canon_eos_5d p:nth-child(3) {
+        padding: 12px 20px;
+    }
+
+    .philips_at600 p:nth-child(2){
+        padding-top: 70px;
+    }
+
+    .philips_at600 p:nth-child(3){
+        padding-top: 70px;
+    }
+
+    .e_bonus p:nth-child(2){
+        padding-top: 20px !important;
+    }
+
+    .e_bonus p:nth-child(3){
+        padding-top: 20px !important;
+    }
+
+    .new_yaohan_voucher p:nth-child(2){
+        padding-top: 20px !important;
+    }
+
+    .new_yaohan_voucher p:nth-child(3){
+        padding-top: 20px !important;
+    }
+
+    .dyson_am09_purifer_fan p:nth-child(2) {
+        padding-top: 20px !important;
+    }
+
+    .dyson_am09_purifer_fan p:nth-child(3) {
+        padding-top: 20px !important;
+    }
+
+}
+
+@media screen and (max-width:1199px) {
+
+
+    .apple_macbook_air_13 p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .apple_macbook_air_13 p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .apple_macbook_air_12 p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .apple_macbook_air_12 p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .e_bonus p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .e_bonus p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .coupon_voucher p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .coupon_voucher p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .packnshop_voucher p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .packnshop_voucher p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .packnshop_voucher p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .packnshop_voucher p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .macau_pass p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .macau_pass p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .new_yaohan_voucher p:nth-child(2){
+        padding-top: 45px;
+    }
+
+    .new_yaohan_voucher p:nth-child(3){
+        padding-top: 40px;
+    }
+
+    .canon_eos_5d p:nth-child(2){
+        padding: 20px;
+    }
+
+    .canon_eos_5d p:nth-child(3){
+        padding: 20px;
+    }
+
+    .room p:nth-child(3){
+        padding: 15px 6px;
+    }
+
+    .polaroid_snap_instant_camera p:nth-child(2) {
+        padding-top: 45px;
+    }
+
+    .polaroid_snap_instant_camera p:nth-child(3) {
+        padding-top: 40px;
+    }
+
+    .hiti_pringo_p231 p:nth-child(2) {
+        padding-top: 45px;
+    }
+
+    .hiti_pringo_p231 p:nth-child(3) {
+        padding-top: 40px;
+    }
+
+    .dyson_am09_purifer_fan p:nth-child(2) {
+        padding-top: 70px;
+    }
+
+    .dyson_am09_purifer_fan p:nth-child(3) {
+        padding-top: 65px;
+    }
+
+    .philips_at600 p:nth-child(2) {
+        padding-top: 70px;
+    }
+
+    .philips_at600 p:nth-child(3) {
+        padding-top: 65px;
+    }
 }
