@@ -171,7 +171,7 @@
                                     <div class="item_box">
                                         <img  src="./images/F&B Coupon Voucher 100.jpg" class="img-responsive">
                                         <div class="item_content coupon_voucher">
-                                            <p>F&B Coupon Voucher $100</p>
+                                            <p>F&B voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
@@ -180,7 +180,7 @@
                                     <div class="item_box">
                                         <img  src="./images/Packnshop Voucher 100.jpg" class="img-responsive">
                                         <div class="item_content packnshop_voucher">
-                                            <p>Packnshop Voucher $100</p>
+                                            <p>Packnshop voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
@@ -189,7 +189,7 @@
                                     <div class="item_box">
                                         <img  src="./images/Royal Supermarker Voucher100.jpg" class="img-responsive">
                                         <div class="item_content">
-                                            <p>Royal Supermarker Voucher $100</p>
+                                            <p>Royal Supermarker voucher $100</p>
                                             <p>Points</p><p class="pull-right">1,000</p>
                                         </div>
                                     </div>
