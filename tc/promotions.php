@@ -34,7 +34,7 @@
         <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>推廣活動</h2>
-        	<p>永昱會會員尊享之精彩推廣活動快將推出，敬請密切留意。</p>
+        	<p>永昱會會員尊享之精彩推廣活動快將推出，敬請密切留意</p>
           </div>
        </div>
       </div>
@@ -43,7 +43,7 @@
         <div class="promotions_content">
             <div class="col-lg-12 hidden-xs">
                 <div class="crumb">
-                    <a href="index.php">SOLIS永昱</a> >
+                    <a href="index.php">首頁</a> >
                     <label style="display: inline;font-weight: normal;">永昱會</label> >
                     <label style="display: inline;font-weight: normal;">推廣活動</label>
                 </div>

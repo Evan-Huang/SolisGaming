@@ -34,7 +34,7 @@
         <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>Promotions</h2>
-        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
           </div>
        </div>
       </div>

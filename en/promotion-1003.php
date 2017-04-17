@@ -34,7 +34,7 @@
         <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>Promotions</h2>
-        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
           </div>
        </div>
       </div>
@@ -63,13 +63,13 @@
                         <p>Promotion Period: Start from now to 20th May, 2017</p>
                         <div class="row">
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px 2px;" class="text-center">Earn points by day</p>
+                                <p style="padding: 18px 2px;" class="text-center">Earn points by day</p>
                                 <p style="padding: 18px 5px;" class="text-center">300 pts</p>
                                 <p style="padding: 30px 5px;" class="text-center">500 pts</p>
-                                <p style="padding: 75px 5px;" class="text-center">1000 pts</p>
+                                <p style="padding: 75px 5px;" class="text-center">1,000 pts</p>
                             </div>
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px 10px;" class="text-center">Rewards</p>
+                                <p style="padding: 18px 10px;" class="text-center">Rewards</p>
                                 <p style="padding: 5px 5px;" class="text-center">$50 E-bonus / Shopping voucher</p>
                                 <p style="padding: 5px 5px;" class="text-center">$100 E-bonus / Shopping / F&B voucher</p>
                                 <p style="padding: 20px 5px;" class="text-center">$200 E-bonus /  Shopping voucher /
@@ -78,11 +78,11 @@
                                 </p>
                             </div>
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px;" class="text-center">Collected Period</p>
+                                <p style="padding: 5px;" class="text-center">Redemption Period</p>
                                 <p style="padding: 133px 30px;" class="text-left">Same calendar date before 23:59</p>
                             </div>
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px 0;" class="text-center">Collected Location</p>
+                                <p style="padding: 5px 0;" class="text-center">Redemption Location</p>
                                 <p style="padding: 133px 20px;" class="text-left">Collected on the same site which points earned</p>
                             </div>
                         </div>

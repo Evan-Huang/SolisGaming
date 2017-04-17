@@ -167,8 +167,8 @@
       <div class="col-md-6 local_place_bg ">
        <a href="promotions.php">
         <div class="club_text_box">
-          <h3>推廣活動</h3>
-          <p>永昱會會員尊享之精彩推廣活動快將推出，敬請密切留意。</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">推廣活動</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">永昱會會員尊享之精彩推廣活動快將推出，敬請密切留意</p>
         </div>
 
         <div class="club_promo text-center" style="background-image: url('images/club_promo_bg.jpg')"> </div>
@@ -176,8 +176,8 @@
       <div class="col-md-6 local_place_bg">
         <a href="benefits.php">
         <div class="club_text_box">
-          <h3>會員精彩禮遇</h3>
-          <p>成為永昱會員，發展精彩禮遇。</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">會員精彩禮遇</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">成為永昱會會員，發掘精彩禮遇</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>

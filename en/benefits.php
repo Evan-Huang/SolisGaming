@@ -36,7 +36,7 @@
 					<div class="hero_banner benefit" style="background-image: url('images/benefits_banner.jpg')">
 						<div class="benefit_tagline">
 							<h2>BENEFITS OF MEMBERSHIP</h2>
-							<p>Discover the benefits of being a Club Solis member.</p>
+							<p>Discover the benefits of being a Club Solis member</p>
 						</div>
 					</div>
 				</div>
@@ -61,7 +61,7 @@
 								<table class="table points_table">
 									<tbody>
 										<tr>
-											<td>
+											<td style="padding-left: 0px;">
 												<p>Slot Coin In $40 = 1 point</p>
 											</td>
 			
@@ -70,7 +70,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td>
+											<td style="padding-left: 0px;">
 												<p>Electronic Roulette and Baccarat Coin In $200 = 1 point</p>
 											</td>
 									
@@ -134,16 +134,16 @@
 													<th>
 														Discount
 													</th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         STAR
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         CELESTIAL
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         SOLSTICE
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
 														EQUINOX
 													</th>
 												</tr>
@@ -151,31 +151,31 @@
 											<tbody>
 												<tr>
 													<td>Restaurant Grandview</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
-                                                    <td>20%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">15%</td>
+                                                    <td class="text-center">15%</td>
+                                                    <td class="text-center">20%</td>
                                                 </tr>
 												<tr>
 													<td>Restaurant Case Real</td>
-                                                    <td>5%</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
+                                                    <td class="text-center">5%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">15%</td>
                                                 </tr>
 												<tr>
 													<td>Restaurant (Landmark-Varanda,King of kings,Petrus)</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">15%</td>
+                                                    <td class="text-center">15%</td>
 												</tr>
 												<tr>
 													<td>Spa (Landmark)</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">10%</td>
+                                                    <td class="text-center">15%</td>
+                                                    <td class="text-center">15%</td>
 												</tr>
 
 											</tbody>
@@ -193,62 +193,62 @@
 													<th>
 														Redemption (Not application to discounts)
 													</th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         STAR
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         CELESTIAL
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
                                                         SOLSTICE
                                                     </th>
-                                                    <th>
+                                                    <th class="text-center">
 														EQUINOX
 													</th>
 												</tr>
 											</thead>
 											<tbody>
 												<tr>
-													<td>Dinging, spa, Accommodation</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
+													<td>Dinging, Spa, Accommodation</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
 												</tr>
 												<tr>
 													<td>Valet Parking</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
 												</tr>
 												<tr>
 													<td>SOLIS Retail Redemption Program</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
 												</tr>
 												<tr>
 													<td>Ferry Tickets</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
-													<td>√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
+													<td class="text-center">√</td>
 												</tr>
 												<tr>
 													<td>Limousine</td>
-													<td></td>
-													<td></td>
-													<td></td>
-													<td>√</td>
+													<td class="text-center"></td>
+													<td class="text-center"></td>
+													<td class="text-center"></td>
+													<td class="text-center">√</td>
 												</tr>
 												<tr>
 													<td>Airfares</td>
-													<td></td>
-													<td></td>
-													<td></td>
-													<td>√</td>
+													<td class="text-center"></td>
+													<td class="text-center"></td>
+													<td class="text-center"></td>
+													<td class="text-center">√</td>
 												</tr>
 
 											</tbody>

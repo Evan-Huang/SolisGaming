@@ -167,8 +167,8 @@
       <div class="col-md-6 local_place_bg ">
        <a href="promotions.php">
         <div class="club_text_box">
-          <h3>Promotions</h3>
-          <p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">Promotions</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
         </div>
 
         <div class="club_promo text-center" style="background-image: url('images/club_promo_bg.jpg')"> </div>
@@ -176,8 +176,8 @@
       <div class="col-md-6 local_place_bg">
         <a href="benefits.php">
         <div class="club_text_box">
-          <h3>Benefits of Membership</h3>
-          <p>Discover the benefits of being a Club SOLIS member.</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">Benefits of Membership</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">Discover the benefits of being a Club SOLIS member</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>
@@ -235,7 +235,7 @@
       <div class="col-md-6 text-justify">
         <p><strong>Become Part of the SOLIS Family</strong></p>
         <p>At SOLIS, you will experience much more than just a career in a fun, friendly and exciting environment. You’ll achieve your dream career that offers exceptional opportunities for professional advancement and personal accomplishment. We offer excellent benefits, insurance and comprehensive career advancement program.</p>
-        <p>For information on Career Opportunities to apply a specific position, please EMAIL YOUR RESUME to <a href="mailto:hra@solismacau.com">hra@solismacau.com</a></p>
+        <p>For information on Career Opportunities to apply a specific position, please EMAIL YOUR RESUME to <a href="mailto:hra@solismacau.com">hra@solismacau.com</a>.</p>
       </div>
     </div>
     <!-- /Job -->

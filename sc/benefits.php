@@ -36,6 +36,7 @@
 					<div class="hero_banner benefit" style="background-image: url('images/benefits_banner.jpg')">
 						<div class="benefit_tagline">
 							<h2>会员精彩礼遇</h2>
+                            <p>成为永昱会会员，发掘精彩礼遇</p>
 						</div>
 					</div>
 				</div>
@@ -44,7 +45,7 @@
 				<div class="benefit_box">
 					<div class="col-lg-12 hidden-xs">
 						<div class="crumb">
-							<a href="index.php">SOLIS永昱</a> >
+							<a href="index.php">首页</a> >
                             <label style="display: inline;font-weight: normal;">永昱会</label> >
 							<label style="display: inline;font-weight: normal;">会员精彩礼遇</label>
 						</div>
@@ -60,7 +61,7 @@
 								<table class="table points_table">
 									<tbody>
 										<tr>
-											<td>
+											<td style="padding-left: 0px;">
 												<p>角子机投注 $40 = 1 分</p>
 											</td>
 								
@@ -69,7 +70,7 @@
 											</td>
 										</tr>
 										<tr>
-											<td>
+											<td style="padding-left: 0px;">
 												<p>电子轮盘及骰宝投注 $200 = 1 分</p>
 											</td>
 								
@@ -150,31 +151,31 @@
 											<tbody>
 												<tr>
 													<td>餐饮 ( 君怡 )</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
-                                                    <td>20%</td>
+                                                    <td>9折</td>
+                                                    <td>85折</td>
+                                                    <td>85折</td>
+                                                    <td>8折</td>
 												</tr>
 												<tr>
 													<td>餐饮 ( 皇家金堡 )</td>
-                                                    <td>5%</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
+                                                    <td>95折</td>
+                                                    <td>9折</td>
+                                                    <td>9折</td>
+                                                    <td>85折</td>
 												</tr>
 												<tr>
 													<td>餐饮 (置地怡心阁,帝皇殿,碧瑟)</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
+                                                    <td>9折</td>
+                                                    <td>9折</td>
+                                                    <td>85折</td>
+                                                    <td>85折</td>
 												</tr>
 												<tr>
 													<td>水疗 ( 置地 )</td>
-                                                    <td>10%</td>
-                                                    <td>10%</td>
-                                                    <td>15%</td>
-                                                    <td>15%</td>
+                                                    <td>9折</td>
+                                                    <td>9折</td>
+                                                    <td>85折</td>
+                                                    <td>85折</td>
 												</tr>
 
 											</tbody>
@@ -222,7 +223,7 @@
 													<td>√</td>
 												</tr>
 												<tr>
-													<td>永昱会奖赏换领计划</td>
+													<td>永昱会礼品换领计划</td>
 													<td>√</td>
 													<td>√</td>
 													<td>√</td>

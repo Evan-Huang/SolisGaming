@@ -37,12 +37,12 @@
 }
 
 .benefit_content{
-	padding: 5px;
+	padding: 5px 0;
 	min-height: 390px;
 }
 
 .benefit_content h4 {
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 
 .welcome {

@@ -48,14 +48,14 @@
             <div class="item slides active">
               <div class="slide-5"></div>
               <div class="intro">
-                <h1>令人震撼的感官體驗</h1>
+                <h1>令人震撼的感官体验</h1>
               </div>
             </div>
             
             <div class="item slides ">
               <div class="slide-4"></div>
               <div class="intro">
-                <h1>令人震撼的感官體驗</h1>
+                <h1>令人震撼的感官体验</h1>
               </div>
             </div>  
                                            
@@ -167,8 +167,8 @@
       <div class="col-md-6 local_place_bg ">
        <a href="promotions.php">
         <div class="club_text_box">
-          <h3>推广活动</h3>
-          <p>永昱会会员尊享之精彩推广活动快将推出，敬请密切留意。</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">推广活动</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">永昱会会员尊享之精彩推广活动快将推出，敬请密切留意</p>
         </div>
 
         <div class="club_promo text-center" style="background-image: url('images/club_promo_bg.jpg')"> </div>
@@ -176,8 +176,8 @@
       <div class="col-md-6 local_place_bg">
         <a href="benefits.php">
         <div class="club_text_box">
-          <h3>会员精彩礼遇</h3>
-          <p>成为永昱会员，发展精彩礼遇。</p>
+          <h3 style="background-color: rgba(0, 0, 0, 0.5);">会员精彩礼遇</h3>
+          <p style="background-color: rgba(0, 0, 0, 0.5);">成为永昱会会员，发掘精彩礼遇</p>
         </div>
         <div class="club_promo text-center" style="background-image: url('images/club_benefits_grid.jpg')"> </div>
         </a> </div>
@@ -235,7 +235,7 @@
       <div class="col-md-6 text-justify">
           <p><strong>加入永昱的大家庭</strong></p>
           <p>成为永昱的一份子让您体验着不一样的工作，我们拥有开怀、友善及充满干劲的工作环境，为您提供优厚的员工福利、医疗保险、全面的职业培训计划及非一般的晋升机会，助您成就梦寐以求的辉煌事业。</p>
-          <p>如欲申请个别职位并获取有关该就业机会的资讯，<strong>请将履历电邮至</strong> <a href="mailto:hra@solismacau.com">hra@solismacau.com</a></p>
+          <p>如欲申请个别职位并获取有关该就业机会的资讯，<strong>请将履历电邮至</strong> <a href="mailto:hra@solismacau.com">hra@solismacau.com</a>。</p>
       </div>
     </div>
     <!-- /Job -->

@@ -83,7 +83,7 @@
         <div class="row solisoffice">
           <div class="col-md-5">
             <div>
-              <h2 class="letter_4">辨公室</h2>
+              <h2 class="letter_4">辦公室</h2>
               <h3 class="solismacau">澳門</h3>
               <p class="office_content">澳門 新口岸 宋玉生廣場411-417號 <br>
                   皇朝廣場19樓G-H室</p>

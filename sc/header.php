@@ -26,9 +26,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li class="li_bt_home active"><a href="index.php" class="button" >SOLIS永昱<span class="sr-only">(current)</span></a></li>
+                <li class="li_bt_home active"><a href="index.php" class="button" >首页<span class="sr-only">(current)</span></a></li>
                 <li><a href="index.php#who" class="button" rel="who" >关于永昱</a></li>
-                <li><a href="index.php#location" class="button" rel="location" >澳門永昱位置</a></li>
+                <li><a href="index.php#location" class="button" rel="location" >澳门永昱位置</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" >永昱会</a>
                     <ul class="dropdown-menu" style="text-align:center">

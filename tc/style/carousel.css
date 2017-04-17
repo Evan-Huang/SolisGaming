@@ -219,7 +219,7 @@ Image credits: unsplash.com
         top: 0;
         color: #ffffff;
         font-size: 15px;
-        content: 'leo eget auctor';/* 伪元素的动态获取内容 */
+        /*content: 'leo eget auctor';!* 伪元素的动态获取内容 *!*/
         overflow: hidden;
 
     }

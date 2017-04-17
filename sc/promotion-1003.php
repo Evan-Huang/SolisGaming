@@ -34,7 +34,7 @@ include_once 'header.php';
                 <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
                     <div class="promotion_tagline">
                         <h2>推广活动</h2>
-                        <p>永昱会会员尊享之精彩推广活动快将推出，敬请密切留意。</p>
+                        <p>永昱会会员尊享之精彩推广活动快将推出，敬请密切留意</p>
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@ include_once 'header.php';
             <div class="promotions_content">
                 <div class="col-lg-12 hidden-xs">
                     <div class="crumb">
-                        <a href="index.php">SOLIS永昱</a> >
+                        <a href="index.php">首页</a> >
                         <label style="display: inline;font-weight: normal;">永昱会</label> >
                         <a href="promotions.php" >推广活动</a> >
                         <label style="display: inline;font-weight: normal;">永昱会日日有赏推广活动</label>
@@ -66,7 +66,7 @@ include_once 'header.php';
                                     <p style="padding: 5px 2px;" class="text-center">即日赚取</p>
                                     <p style="padding: 18px 5px;" class="text-center">300 分</p>
                                     <p style="padding: 30px 5px;" class="text-center">500 分</p>
-                                    <p style="padding: 75px 5px;" class="text-center">1000 分</p>
+                                    <p style="padding: 75px 5px;" class="text-center">1,000 分</p>
                                 </div>
                                 <div class="col-md-3 promotion_content_row_col">
                                     <p style="padding: 5px 10px;" class="text-center">奖赏</p>

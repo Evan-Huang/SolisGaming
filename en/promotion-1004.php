@@ -34,7 +34,7 @@
         <div class="hero_banner promotion" style="background-image: url('images/promotion_banner.jpg')">
         <div class="promotion_tagline">
         	<h2>Promotions</h2>
-        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members.</p>
+        	<p>Stay tuned for the exciting promotions exclusively for our prestige Club SOLIS members</p>
           </div>
        </div>
       </div>
@@ -63,19 +63,19 @@
                         <p>Promotion Period: Start from now to 31st May, 2017</p>
                         <div class="row">
                             <div class="col-md-4 promotion_content_row_col">
-                                <p style="padding: 5px;" class="text-center">How to Participate</p>
+                                <p style="padding: 18px 0;" class="text-center">How to Participate</p>
                                 <p style="padding: 15px;" class="text-left">New Sign up and earn 100 points or above on the register day from 00:00 to the following day 23:59 at the register site</p>
                             </div>
                             <div class="col-md-2 promotion_content_row_col">
-                                <p style="padding: 5px 10px;" class="text-center">Rewards</p>
+                                <p style="padding: 18px 10px;" class="text-center">Rewards</p>
                                 <p style="padding: 55px 5px;" class="text-center">$50 E-bonus/Shopping Voucher</p>
                             </div>
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px;" class="text-center">Collected Period</p>
+                                <p style="padding: 5px;" class="text-center">Redemption Period</p>
                                 <p style="padding: 35px 30px;" class="text-left">The following register day before 23:599</p>
                             </div>
                             <div class="col-md-3 promotion_content_row_col">
-                                <p style="padding: 5px 0;" class="text-center">Collected Location</p>
+                                <p style="padding: 5px 0;" class="text-center">Redemption Location</p>
                                 <p style="padding: 35px 20px;" class="text-left">Collected on the same register site</p>
                             </div>
                         </div>
